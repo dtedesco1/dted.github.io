@@ -10,3 +10,4 @@
 
 ### Best Resources for Introduction to the Space
 - Forte article (add link!)
+- Economics Design article (add link!)
