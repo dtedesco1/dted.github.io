@@ -1,4 +1,26 @@
 # Daniel Tedesco
 
-## Contents
-- [dtedesco1.github.io/blockchain-gaming/](Blockchain Gaming)
+## Goals for myself
+- [Vision, Mission, Values](https://dynalist.io/d/pz2OV8bfTjaryXAKLmREY8c1)
+- [Life Plan](https://docs.google.com/spreadsheets/d/1YV1dD9vc6yEOUJNvUqFE_H3H63SICM_22eqCVEgH3mc/)
+- [Annual Letters](https://tinyletter.com/tedesconotes)
+
+## Major public interests
+Use technology to build positive networks of people.
+- US & China getting along
+- Consumer software that people love
+- Thriving communities
+
+## Major personal interests
+- Staying healthy and loving my family
+- Studying the latest trends in human psychology and computer science
+- Reading history and science fiction
+- All music and (slowly) learning guitar
+- 
+
+## Other pages
+- [Blockchain Gaming](dtedesco1.github.io/blockchain-gaming/)
+
+## Things I've built that I can share
+- Tasky
+- NFT-GM
