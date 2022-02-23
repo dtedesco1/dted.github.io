@@ -18,7 +18,7 @@ Use technology to build positive networks of people.
 - All music and (slowly) learning guitar
 
 ## Other pages
-- [Blockchain Gaming](dtedesco1.github.io/blockchain-gaming/)
+- [Blockchain](/blockchain/)
 
 ## Things I've built that I can share
 - Tasky
