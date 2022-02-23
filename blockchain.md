@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Blockchain"
 permalink: /blockchain/
+---
 
 # My favorite resources for learning about blockchain technology
 
