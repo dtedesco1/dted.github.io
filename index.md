@@ -16,7 +16,6 @@ Use technology to build positive networks of people.
 - Studying the latest trends in human psychology and computer science
 - Reading history and science fiction
 - All music and (slowly) learning guitar
-- 
 
 ## Other pages
 - [Blockchain Gaming](dtedesco1.github.io/blockchain-gaming/)
