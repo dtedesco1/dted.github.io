@@ -1,4 +1,8 @@
-# Daniel Tedesco
+---
+layout: page
+title: "Daniel Tedesco"
+permalink: https://danieltedesco.org/
+---
 
 ## Goals for myself
 - [Vision, Mission, Values](https://dynalist.io/d/pz2OV8bfTjaryXAKLmREY8c1)
