@@ -25,7 +25,6 @@ title: "Blockchain"
 
 ### Quality News/Info Sources
 - [Game Thinking TV by Amy Jo Kim](https://www.youtube.com/c/GameThinkingTV/)
-- 
 
 ### Thoughtful Games
 - [Million on Mars](milliononmars.gio) (designer Mitch Zamara)
