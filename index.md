@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "DFT"
 ---
 
 ## Goals for myself
