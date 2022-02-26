@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Blockchain"
-permalink: https://danieltedesco.org/blockchain/
 ---
 
 # My favorite resources for learning about blockchain technology
