@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Daniel Tedesco"
 permalink: {{ site.baseurl }}
 ---
 
