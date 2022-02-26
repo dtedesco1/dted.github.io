@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Daniel Tedesco"
-permalink: https://danieltedesco.org/
+permalink: {{ site.baseurl }}
 ---
 
 ## Goals for myself
