@@ -12,10 +12,10 @@ Use technology to build positive networks of people.
 - Thriving communities
 
 ## Major personal interests
-- Staying healthy and loving my family
-- Studying the latest trends in human psychology and computer science
+- Staying healthy and loving my family & close friends
+- Studying the latest trends in human psychology and digital technology
 - Reading history and science fiction
-- All music and (slowly) learning guitar
+- Finding rapture in music and slowly learning guitar
 
 ## Other pages
 - [Blockchain Gaming](dtedesco1.github.io/blockchain-gaming/)
