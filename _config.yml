@@ -1,1 +1,5 @@
+
 theme: jekyll-theme-slate
+
+# Following advice from https://github.com/jekyll/jekyll/issues/332
+baseurl: /dtedesco1.github.io
