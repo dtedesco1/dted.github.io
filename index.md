@@ -22,7 +22,7 @@ Use technology to build positive networks of people.
 - Finding rapture in music and slowly learning guitar
 
 ## Other pages
-- [Blockchain](/blockchain/)
+- [Blockchain](/blockchain.md/)
 
 ## Things I've built that I can share
 - Tasky
