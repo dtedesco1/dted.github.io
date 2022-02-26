@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: {{ site.baseurl }}
 ---
 
 ## Goals for myself
