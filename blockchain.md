@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Blockchain"
-permalink: https://danieltedesco.org/blockchain/
+permalink: /blockchain/
 ---
 
 # My favorite resources for learning about blockchain technology
@@ -26,7 +26,6 @@ permalink: https://danieltedesco.org/blockchain/
 
 ### Quality News/Info Sources
 - [Game Thinking TV by Amy Jo Kim](https://www.youtube.com/c/GameThinkingTV/)
-- 
 
 ### Thoughtful Games
 - [Million on Mars](milliononmars.gio) (designer Mitch Zamara)

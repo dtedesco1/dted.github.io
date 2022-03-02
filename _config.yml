@@ -1,5 +1,10 @@
+baseurl: "/dtedesco1.github.io"
+url: https://danieltedesco.org
 
-theme: jekyll-theme-slate
+remote_theme: riggraz/no-style-please # From https://github.com/dtedesco1/no-style-please
 
-# Following advice from https://github.com/jekyll/jekyll/issues/332
-baseurl: /dtedesco1.github.io
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page

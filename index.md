@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: {{ site.baseurl }}
+title: "DFT"
+permalink: /
 ---
 
 ## Goals for myself
