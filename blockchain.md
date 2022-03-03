@@ -23,6 +23,7 @@ permalink: /blockchain/
 
 
 ## Blockchain Gaming Sources
+- [Big list of games](https://docs.google.com/spreadsheets/d/1zizXKqmnex5YjbXD6c4k_VaQjr6ky0CL2TjK217kEmw/edit#gid=2009024128)
 
 ### Quality News/Info Sources
 - [Game Thinking TV by Amy Jo Kim](https://www.youtube.com/c/GameThinkingTV/)
