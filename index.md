@@ -23,7 +23,7 @@ Use technology to build positive networks of people.
 - Staying healthy and loving my family & close friends
 - Studying the latest trends in human psychology and digital technology
 - Reading history and science fiction
-- Finding rapture in [music](/music.md/) and video games
+- Finding rapture in [music, video games, and other art](/art.md/)
 
 ## Specific Interests in 2022
 - [Blockchain](/blockchain.md/)
