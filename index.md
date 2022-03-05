@@ -22,7 +22,7 @@ Use technology to build positive networks of people.
 ## Major personal interests
 - Staying healthy and loving my family & close friends
 - Studying the latest trends in human psychology and digital technology
-- Reading history and science fiction
+- Reading [history and science fiction](/books.md/)
 - Finding rapture in [music, video games, and other art](/art.md/)
 
 ## Specific Interests in 2022
