@@ -19,6 +19,7 @@ permalink: /art/
 - The Beatles
 - Tracy Chapman
 - David Bowie
+- Bobby McFerrin
 
 # Vision
 
