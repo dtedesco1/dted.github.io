@@ -4,6 +4,11 @@ title: "Blockchain"
 permalink: /blockchain/
 ---
 
+
+# Projects I'm working on
+- [Solidity Templates](https://github.com/fulldecent/solidity-template)
+- [NFT-GM](https://github.com/dtedesco1/nft-gm-vanilla)
+
 # My favorite resources for learning about blockchain technology
 
 ## General
