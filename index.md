@@ -12,6 +12,7 @@ I'm an American in China who likes using technology to bring humanity a bit clos
 - [Vision, Mission, Values](https://dynalist.io/d/pz2OV8bfTjaryXAKLmREY8c1)
 - [Life Plan](https://docs.google.com/spreadsheets/d/1YV1dD9vc6yEOUJNvUqFE_H3H63SICM_22eqCVEgH3mc/)
 - [Career direction & resume](https://docs.google.com/document/d/1roDAln8NoTdiisS2fndXgqTF9PFxli1moOO-Cj-4YPM/)
+- [Annual letters since 2015 and why I write them](https://mirror.xyz/0x072408eA37972B83720693D158a85D98A8316340/Y2l7o7Cx41l6jEwVZT5zgRZDqMAXB6LfDA7FL7-QV8I)
 
 ## Major public interests
 Use technology to build positive networks of people.
@@ -39,6 +40,3 @@ Use technology to build positive networks of people.
 ## Things I've built that I can share
 - [Tasky](https://dt-tasky.herokuapp.com/) A task management web app built with Python & Flask.
 - [NFT-GM](https://github.com/dtedesco1/nft-gm-vanilla) - A silly web app for your NFT's to say hello to each other.
-
-# Annual Letters
-I write a letter to friends every year and [share it publicly](https://tinyletter.com/tedesconotes).
