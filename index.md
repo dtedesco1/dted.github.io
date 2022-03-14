@@ -6,7 +6,7 @@ permalink: /
 
 # Who is DFT
 
-I'm an American in China who likes using technology to bring humanity a bit closer together. 
+I'm an American in China who uses technology to bring humanity a bit closer together. 
 
 ## Goals for myself
 - [Vision, Mission, Values](https://dynalist.io/d/pz2OV8bfTjaryXAKLmREY8c1)
@@ -28,15 +28,15 @@ Use technology to build positive networks of people.
 
 ## Specific Interests in 2022
 - [Blockchain](/blockchain.md/)
-- Video game industry
+- [Video game industry](/games.md/)
 
 # Socials
 - [Twitter](https://twitter.com/dtedesco1)
 - [LinkedIn](https://www.linkedin.com/in/danieltedesco/)
 - [GitHub](https://github.com/dtedesco1)
 
-# History
-
-## Things I've built that I can share
-- [Tasky](https://dt-tasky.herokuapp.com/) A task management web app built with Python & Flask.
-- [NFT-GM](https://github.com/dtedesco1/nft-gm-vanilla) - A silly web app for your NFT's to say hello to each other.
+# Some software I've built
+- [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask.
+- [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
+- [NFT-GM](https://github.com/dtedesco1/nft-gm-vanilla), a simple way for your NFTs to say hello.
+- [Tuqiu](https://showcase.ethglobal.com/buildquest/tuqui-uz7h1), a brick breaker game for NFTs.

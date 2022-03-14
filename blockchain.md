@@ -4,35 +4,54 @@ title: "Blockchain"
 permalink: /blockchain/
 ---
 
-# Projects I contribute to
-- [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
-- [NFT-GM](https://github.com/dtedesco1/nft-gm-vanilla), a simple way for your NFTs to say hello.
-- [Tuqiu](https://showcase.ethglobal.com/buildquest/tuqui-uz7h1), a brick breaker game for NFTs.
+Are you new to blockchain? I've wasted many hours over many months reading lots of crap. If it's helpful in saving you some time, here are my top recommendations:
 
-# My favorite resources for learning about blockchain technology
+# General Blockchain and Web3
 
-## General Blockchain and Web3
-- [MIT Opencourseware Blockchain and Money course, taught by Gary Gensler](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/)
+1. By far, my number 1 recommendation for those who are new to the concepts:  [MIT Opencourseware Blockchain and Money course, taught by Gary Gensler](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/) taught by Gary Gensler. Gary's not only super influential in the space (a la being U.S. SEC Chair), but he's also a very good teacher and really dove deep to lead a great class.
+2. Don't forget to read the [Bitcoin](https://bitcoin.org/bitcoin.pdf) and [Ethereum](https://ethereum.org/en/whitepaper/) white papers!
+3. Most blockchain projects today are just defi projects in disguise, so it's good to get a basic understanding of defi as well:  [DeFi Beyond the Hype](https://wifpr.wharton.upenn.edu/wp-content/uploads/2021/05/DeFi-Beyond-the-Hype.pdf)
+
+# Going deeper
+- [Moxie's clear-eyed exploration into web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
+- [a16z's crypto & web3 blog category](https://future.a16z.com/category/crypto-web3/)
 - [Economics Design](https://economicsdesign.com/)
-- [Will Entriken's Community Service Hour](https://www.twitch.tv/fulldecent)
-- Don't forget to read the [Bitcoin](https://bitcoin.org/bitcoin.pdf) and [Ethereum](https://ethereum.org/en/whitepaper/) white papers!
 
+## Good news sources
+- [The Defiant](https://thedefiant.io/):  Quality daily newsletter that gets to the point.
+- [The Block](https://www.theblockcrypto.com/):  Also a good daily market summary newsletter.
+- [The Information's Crypto newsletter](https://www.theinformation.com/newsletters/crypto-global)
+- [Glassnode](https://glassnode.com/):  They're a data provider, but they send out thoughtful weekly analysis of the crypto environment.
+- [Bankless](http://podcast.banklesshq.com/):  Interesting podcast, but extremely biased towards their crypto-utopian vision of the world. The ads are interesting.
+- [The Tim Ferriss podcast](https://tim.blog/) features some great episodes with people who I think are well-versed on the broader potential social and economic implications of blockchain applications, namely those episodes with Naval Ravikant, Tim Dixon, and former Coinbase CTO Balaji Srinivasan.
+
+## Good data sources
+- [DappRadar](https://dappradar.com/)
+- [The Block Dashboard](https://www.theblockcrypto.com/data/crypto-markets/spot)
+- [Glassnode Studio](https://studio.glassnode.com/)
 
 ## Good, non-scammy web3 building resources
 - [ETH global hackathon](https://ethglobal.com/)
 - [Cryptozombies.io](https://cryptozombies.io/)
+- [Will Entriken's Community Service Hour](https://www.twitch.tv/fulldecent)
 
-## Other communities. Still vetting if they're any good...
+Other communities. Still vetting if they're any good...
 - Braintrust
 - Buildspace
 - Walzay
+- Gitcoin
 
 
-## Blockchain Gaming
+# _Blockchain Gaming & Metaverse_
+[[[[Section Under Construction]]]]
 - [Big list of games](https://docs.google.com/spreadsheets/d/1zizXKqmnex5YjbXD6c4k_VaQjr6ky0CL2TjK217kEmw/edit#gid=2009024128)
+
 
 ### Quality News/Info Sources
 - [Game Thinking TV by Amy Jo Kim](https://www.youtube.com/c/GameThinkingTV/)
+- Naavik
+- Deconstructor of Fun Tokenomics
+- Into the Metaverse podcast
 
 ### Thoughtful Games
 - [Million on Mars](milliononmars.io) (designer Mitch Zamara)
@@ -41,3 +60,7 @@ permalink: /blockchain/
 ### Best Resources for Introduction to the Space
 - Forte article (add link!)
 - Economics Design article (add link!)
+
+# _DAOs_
+- [How to DAO Course Notes](https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit)
+- [DAO Cannon by a16z](https://future.a16z.com/dao-canon/)
