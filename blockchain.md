@@ -58,8 +58,10 @@ Other communities. Still vetting if they're any good...
 
 
 ### Best Resources for Introduction to the Space
+Keep in mind:  None of the "models" for blockchain games are proven or sustainable yet. These are all experiments.
 - Forte article (add link!)
-- Economics Design article (add link!)
+- Economics Design, [The Economics of Play-to-Earn](https://econteric.com/p2e/)
+- DoF breakdown of Thetan Area (add link!)
 
 # _DAOs_
 - [How to DAO Course Notes](https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit)
