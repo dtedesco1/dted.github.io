@@ -35,7 +35,7 @@ Use technology to build positive networks of people.
 - [LinkedIn](https://www.linkedin.com/in/danieltedesco/)
 - [GitHub](https://github.com/dtedesco1)
 
-# Some software I've built
+# Some software I contribute to
 - [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask.
 - [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
 - [NFT-GM](https://github.com/dtedesco1/nft-gm-vanilla), a simple way for your NFTs to say hello.
