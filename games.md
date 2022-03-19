@@ -9,7 +9,7 @@ permalink: /games/
 # Industry News
 ## Tier 1
 Podcasts
-- Deconstructor of Fun
+- [Deconstructor of Fun](https://anchor.fm/deconstructoroffun)
 - Naavik
 - GameMakers
 Blogs/Newsletters
