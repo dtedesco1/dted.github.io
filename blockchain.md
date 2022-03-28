@@ -49,9 +49,9 @@ Other communities. Still vetting if they're any good...
 
 ### Quality News/Info Sources
 - [Game Thinking TV by Amy Jo Kim](https://www.youtube.com/c/GameThinkingTV/)
-- Naavik
-- Deconstructor of Fun Tokenomics
-- Into the Metaverse podcast
+- [Naavik Metacast](https://naavik.co/themetacast)
+- [Deconstructor of Fun Podcast](https://anchor.fm/deconstructoroffun/) (especially the Tokenomics episodes)
+- [Into the Metaverse Podcast](https://anchor.fm/metaverse)
 
 ### Thoughtful Games
 - [Million on Mars](milliononmars.io) (designer Mitch Zamara)
