@@ -55,13 +55,14 @@ Other communities. Still vetting if they're any good...
 
 ### Thoughtful Games
 - [Million on Mars](milliononmars.io) (designer Mitch Zamara)
+- If you know of others, please let me know...
 
 
 ### Best Resources for Introduction to the Space
 Keep in mind:  None of the "models" for blockchain games are proven or sustainable yet. These are all experiments.
-- Forte article (add link!)
+- [Forte & The Block blockchain gaming primer](https://www.theblockcrypto.com/post/120409/blockchain-based-gaming-a-primer-brought-to-you-by-forte)
 - Economics Design, [The Economics of Play-to-Earn](https://econteric.com/p2e/)
-- DoF breakdown of Thetan Area (add link!)
+- [DoF breakdown of Thetan Area](https://www.deconstructoroffun.com/blog/2022/2/28/thetan-arena)
 
 # _DAOs_
 - [How to DAO Course Notes](https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit)
