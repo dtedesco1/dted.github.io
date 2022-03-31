@@ -32,11 +32,6 @@ Use technology to build positive networks of people.
 - [Video game industry](/games.md/)
 - [Career direction & resume](https://docs.google.com/document/d/1roDAln8NoTdiisS2fndXgqTF9PFxli1moOO-Cj-4YPM/)
 
-# Socials
-- [Twitter](https://twitter.com/dtedesco1)
-- [LinkedIn](https://www.linkedin.com/in/danieltedesco/)
-- [GitHub](https://github.com/dtedesco1)
-
 # Some software I contribute to
 - [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask.
 - [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
@@ -44,4 +39,9 @@ Use technology to build positive networks of people.
 - [Tuqiu](https://showcase.ethglobal.com/buildquest/tuqui-uz7h1), a brick breaker game for NFTs.
 
 # Subscribe
+## Socials
+- [Twitter](https://twitter.com/dtedesco1)
+- [LinkedIn](https://www.linkedin.com/in/danieltedesco/)
+- [GitHub](https://github.com/dtedesco1)
+
 <iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
