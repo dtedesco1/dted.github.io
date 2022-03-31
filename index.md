@@ -40,3 +40,5 @@ Use technology to build positive networks of people.
 - [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
 - [NFT-GM](https://github.com/dtedesco1/nft-gm-vanilla), a simple way for your NFTs to say hello.
 - [Tuqiu](https://showcase.ethglobal.com/buildquest/tuqui-uz7h1), a brick breaker game for NFTs.
+
+<iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
