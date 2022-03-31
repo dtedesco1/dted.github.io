@@ -4,6 +4,8 @@ title: "DFT"
 permalink: /
 ---
 
+![Daniel Tedesco](headshot.png)
+
 # Who is DFT
 
 I'm an American in China who uses technology to bring humanity a bit closer together. 
