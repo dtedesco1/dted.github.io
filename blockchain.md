@@ -12,6 +12,11 @@ Are you new to blockchain? I've wasted many hours over many months reading lots 
 2. Don't forget to read the [Bitcoin](https://bitcoin.org/bitcoin.pdf) and [Ethereum](https://ethereum.org/en/whitepaper/) white papers!
 3. Most blockchain projects today are just defi projects in disguise, so it's good to get a basic understanding of defi as well:  [DeFi Beyond the Hype](https://wifpr.wharton.upenn.edu/wp-content/uploads/2021/05/DeFi-Beyond-the-Hype.pdf)
 
+# My attempts to define key terms in a way my grandmothers would understand
+- Blockchain/web3:  private property on the internet
+- Metaverse:  3d internet
+- DAO:  A Facebook group with it's own money and people can vote to change the rules
+
 # Going deeper
 - [Moxie's clear-eyed exploration into web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
 - [a16z's crypto & web3 blog category](https://future.a16z.com/category/crypto-web3/)
