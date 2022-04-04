@@ -46,12 +46,5 @@ Use technology to build positive networks of people.
 - [GitHub](https://github.com/dtedesco1)
 - [Substack](https://dtedesco1.substack.com/)
 
-<<<<<<< HEAD
-<!-- Subscribe to Substack need to debug -->
-
-<!-- <iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
-=======
-<!-- Subscribe to Substack -->
 <!-- 
 <iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
->>>>>>> 6fc518943cdf9e94a1dc54fb0d7ef62cdf3f0668
