@@ -33,6 +33,7 @@ Use technology to build positive networks of people.
 - [Career direction & resume](https://docs.google.com/document/d/1roDAln8NoTdiisS2fndXgqTF9PFxli1moOO-Cj-4YPM/)
 
 # Some software I contribute to
+- [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
 - [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask.
 - [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
 - [NFT-GM](https://github.com/dtedesco1/nft-gm-vanilla), a simple way for your NFTs to say hello.
@@ -45,7 +46,6 @@ Use technology to build positive networks of people.
 - [GitHub](https://github.com/dtedesco1)
 - [Substack](https://dtedesco1.substack.com/)
 
-<!-- Subscribe to Substack -->
+<!-- Subscribe to Substack need to debug -->
 
-
-<iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<!-- <iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
