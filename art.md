@@ -21,6 +21,12 @@ permalink: /art/
 - David Bowie
 - Bobby McFerrin
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3x2DQz1db5pS1IEkpD0zWv?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4Z8nWz3dGybOP7lhMZpcOo?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2de6LD7eOW8zrlorbS28na?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 # Vision
 
 ## Animation
