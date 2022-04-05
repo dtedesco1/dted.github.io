@@ -27,10 +27,11 @@ Use technology to build positive networks of people.
 - [Life Plan](https://docs.google.com/spreadsheets/d/1YV1dD9vc6yEOUJNvUqFE_H3H63SICM_22eqCVEgH3mc/)
 - [Annual letters since 2015 and why I write them](https://mirror.xyz/0x072408eA37972B83720693D158a85D98A8316340/Y2l7o7Cx41l6jEwVZT5zgRZDqMAXB6LfDA7FL7-QV8I)
 
-## Specific Interests in 2022
-- [Blockchain](/blockchain.md/)
-- [Video game industry](/games.md/)
-- [Career direction & resume](https://docs.google.com/document/d/1roDAln8NoTdiisS2fndXgqTF9PFxli1moOO-Cj-4YPM/)
+## Specific Public Interests in 2022
+- Working at [Google](https://about.google/)
+- Building a better [blockchain](/blockchain.md/) ecosystem
+- Understanding the [video game industry](/games.md/)
+- Thinking about my [career direction](https://docs.google.com/document/d/1roDAln8NoTdiisS2fndXgqTF9PFxli1moOO-Cj-4YPM/)
 
 # Some software I contribute to
 - [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
