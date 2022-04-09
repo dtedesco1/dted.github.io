@@ -17,7 +17,7 @@ Use technology to build positive networks of people.
 - Thriving communities
 
 ## Major personal interests
-- Staying healthy and loving my family & close friends
+- [Staying healthy](/health.md/) and loving my family & close friends
 - Studying the latest trends in human psychology and digital technology
 - Reading [history and science fiction](/books.md/)
 - Finding rapture in [music, video games, and other art](/art.md/)
