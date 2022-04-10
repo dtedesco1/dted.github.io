@@ -10,8 +10,8 @@ permalink: /games/
 ## Tier 1
 Podcasts
 - [Deconstructor of Fun](https://anchor.fm/deconstructoroffun)
-- Naavik
-- GameMakers
+- [Naavik Metacast](https://naavik.co/themetacast)
+- [GameMakers](https://anchor.fm/gamemakers)
 Blogs/Newsletters
 - Deconstructor of Fun
 - Mobile Dev Memo
