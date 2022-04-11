@@ -6,10 +6,10 @@ permalink: /books/
 
 # Some of my favorite books
 - Behave, Robert Sapolsky
-- Man's Search for Meaning
-- Robert Caro LBJ
-- The Social Conquest of Earth
-- Siddhartha
+- [Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning) by Viktor Frankl
+- [The Years of Lyndon Johnson series](https://en.wikipedia.org/wiki/The_Years_of_Lyndon_Johnson) by Robert Caro
+- [The Social Conquest of Earth](https://en.wikipedia.org/wiki/The_Social_Conquest_of_Earth) by Edward O. Wilson
+- [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel)) by Hermann Hesse
 - Best American short stories collection
 
 # Business & Leadership
