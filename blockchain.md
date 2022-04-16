@@ -8,7 +8,7 @@ Are you new to blockchain? I've wasted many hours over many months reading lots 
 
 # General Blockchain and Web3
 
-1. By far, my number 1 recommendation for those who are new to the concepts:  [MIT Opencourseware Blockchain and Money course, taught by Gary Gensler](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/) taught by Gary Gensler. Gary's not only super influential in the space (a la being U.S. SEC Chair), but he's also a very good teacher and really dove deep to lead a great class.
+1. By far, my number one recommendation for those who are new to the concepts:  [MIT Opencourseware Blockchain and Money course, taught by Gary Gensler](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/). Gary's not only super influential in the space (a la being U.S. SEC Chair), but he's also a very good teacher and really dove deep to lead a great class.
 2. Don't forget to read the [Bitcoin](https://bitcoin.org/bitcoin.pdf) and [Ethereum](https://ethereum.org/en/whitepaper/) white papers!
 3. Most blockchain projects today are just defi projects in disguise, so it's good to get a basic understanding of defi as well:  [DeFi Beyond the Hype](https://wifpr.wharton.upenn.edu/wp-content/uploads/2021/05/DeFi-Beyond-the-Hype.pdf)
 
