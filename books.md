@@ -21,3 +21,6 @@ permalink: /books/
 - Dune
 - Three Body Problem
 - Exhilations
+
+# 2022
+- [Bittersweet by Susan Cain](https://susancain.net/book/bittersweet/)
