@@ -4,13 +4,14 @@ title: "Books"
 permalink: /books/
 ---
 
-# Some of my favorite books
+# Overall favorites
 - [Behave](https://en.wikipedia.org/wiki/Behave_(book)) by Robert Sapolsky
 - [Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning) by Viktor Frankl
 - [The Years of Lyndon Johnson series](https://en.wikipedia.org/wiki/The_Years_of_Lyndon_Johnson) by Robert Caro
 - [The Social Conquest of Earth](https://en.wikipedia.org/wiki/The_Social_Conquest_of_Earth) by Edward O. Wilson
 - [Siddhartha](https://en.wikipedia.org/wiki/Siddhartha_(novel)) by Hermann Hesse
 - [The Best American Short Stories](https://en.wikipedia.org/wiki/The_Best_American_Short_Stories) anthologies
+- The big religious ones:  Bible, Koran, Baghvad Gita, Tao Te Ching, etc.
 
 # Business & Leadership
 - [Good to Great](https://en.wikipedia.org/wiki/Good_to_Great)
