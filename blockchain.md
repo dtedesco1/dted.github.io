@@ -20,6 +20,7 @@ Are you new to blockchain? I've wasted many hours over many months reading lots 
 # Going deeper
 - [Moxie's clear-eyed exploration into web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
 - [a16z's crypto & web3 blog category](https://future.a16z.com/category/crypto-web3/)
+- [Web3/Crypto:  Why Bother](https://continuations.com/post/671863718643105792/web3crypto-why-bother_)
 - [Economics Design](https://economicsdesign.com/)
 
 ## Good news sources
@@ -30,10 +31,11 @@ Are you new to blockchain? I've wasted many hours over many months reading lots 
 - [Bankless](http://podcast.banklesshq.com/):  Interesting podcast, but extremely biased towards their crypto-utopian vision of the world. The ads are interesting.
 - [The Tim Ferriss podcast](https://tim.blog/) features some great episodes with people who I think are well-versed on the broader potential social and economic implications of blockchain applications, namely those episodes with Naval Ravikant, Tim Dixon, and former Coinbase CTO Balaji Srinivasan.
 
-## Good data sources
-- [DappRadar](https://dappradar.com/)
+## Data sources
+- [DappRadar](https://dappradar.com/) (good idea, but sketchy data)
 - [The Block Dashboard](https://www.theblockcrypto.com/data/crypto-markets/spot)
 - [Glassnode Studio](https://studio.glassnode.com/)
+- Dune analytics
 
 ## Good, non-scammy web3 building resources
 - [ETH global hackathon](https://ethglobal.com/)
@@ -71,6 +73,7 @@ Keep in mind:  None of the "models" for blockchain games are proven or sustainab
 
 # _DAOs_
 - [How to DAO Course Notes](https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit)
+<<<<<<< HEAD
 - [DAO Cannon by a16z](https://future.a16z.com/dao-canon)
 
 

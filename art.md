@@ -41,11 +41,18 @@ And I can't forget the transcendant Qawwali Flamenco:
 
 # Vision
 
+## Movies
+- Citizen Kane
+- 鬼子来了
+- Do The Right Thing
+- Pulp Fiction
+- Princess Mononoke
+
 ## Animation
-- Cowboy Bebop
-- Samurai Champloo
-- Attack on Titan
-- Death Note
+- [Cowboy Bebop](https://en.wikipedia.org/wiki/Cowboy_Bebop)
+- [Samurai Champloo](https://en.wikipedia.org/wiki/Samurai_Champloo)
+- [Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)
+- [Death Note](https://en.wikipedia.org/wiki/Death_Note)
 
 <!-- # What I'm listening to recently
 - Add a link to spotify? -->
