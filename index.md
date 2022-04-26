@@ -33,7 +33,8 @@ Use technology to build positive networks of people.
 - Understanding the [video game industry](/games.md/)
 - Thinking about my [career direction](https://docs.google.com/document/d/1roDAln8NoTdiisS2fndXgqTF9PFxli1moOO-Cj-4YPM/)
 
-# Some software I contribute to
+# Software projects
+Though not a trained developer, I enjoy contributing to open source software. [Anyone can learn it](/oss.md/).
 - [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
 - [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask.
 - [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
