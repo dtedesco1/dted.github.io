@@ -71,4 +71,8 @@ Keep in mind:  None of the "models" for blockchain games are proven or sustainab
 
 # _DAOs_
 - [How to DAO Course Notes](https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit)
-- [DAO Cannon by a16z](https://future.a16z.com/dao-canon/)
+- [DAO Cannon by a16z](https://future.a16z.com/dao-canon)
+
+
+# Regulation
+- [Regulating the Metaverse](https://mirror.xyz/0x81dB200eD62Ce664B911C211b55F836a208Df868/n-8osyXEl8Dzv_qnrBR1ICdxF55zdIMLP6OI3yU9igY) by Bradley Tusk
