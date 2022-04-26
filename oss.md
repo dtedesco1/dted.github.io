@@ -9,20 +9,26 @@ I've recently been learning how to contribute to open source software. Not being
 If I had to learn from scratch, here's what I would do:
 
 # 1. Skim the intro stuff
-Search and read about how to contribute to open source. Skim a half dozen blog posts about it and you'll get the gist.
-[Github](https://opensource.guide/how-to-contribute/) has tons of resources to get your started, including a whole interactive course. Free Code Camp has also collected a great [list of readings](https://github.com/freeCodeCamp/how-to-contribute-to-open-source).
+- Search and read about how to contribute to open source. Skim a half dozen blog posts about it and you'll get the gist.
+- [Github](https://opensource.guide/how-to-contribute/) has tons of resources to get your started, including a whole interactive course. 
+- Free Code Camp has also collected a great [list of readings](https://github.com/freeCodeCamp/how-to-contribute-to-open-source).
 
 # 2. Get to know your target project
-Take a deep look at the README file. If there are contributor rules, read through them. Pay extra attention to any suggestions for newcomers.
-Also check out previous PRs. What are the conversations like? This will help you prepare for questions your pull request might receive.
-Find a mentor or buddy. If an existing contributor can give you guidance through the process, you're far more likely to see it through.
+- Take a deep look at the README file. If there are contributor rules, read through them. 
+- Pay extra attention to any suggestions for newcomers.
+- Check out previous PRs. What are the conversations like? This will help you prepare for questions your pull request might receive.
+- Find a mentor or buddy. If an existing contributor can give you guidance through the process, you're far more likely to see it through.
 
 # 3. Hack!
-Write the code you wish to see in the world. Make sure to follow the contributor guidance. Start with something small to get your feet wet, like cleaning up comments or writing test code.
+- Write the code you wish to see in the world. 
+- Make sure to follow the contributor guidance. 
+- Start with something small to get your feet wet, like cleaning up comments or writing test code.
 
 # 4. Follow your PR through
-- Mechanics -- ex. squashing and rebasing
+- Mechanics -- ex. squashing and rebasing*
 - Engaging with comments
 - Keep hope alive and be pleasantly persistent
 
 Don't forget to celebrate your first merge!
+
+* Guidance on how to rebase: [1](https://github.com/openedx/edx-platform/wiki/How-to-Rebase-a-Pull-Request), [2](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request), [3](https://anavarre.net/how-to-rebase-a-github-pull-request/).
