@@ -25,10 +25,10 @@ If I had to learn from scratch, here's what I would do:
 - Start with something small to get your feet wet, like cleaning up comments or writing test code.
 
 # 4. Follow your PR through
-- Mechanics -- ex. squashing and rebasing*
+- Mechanics -- ex. squashing and rebasing^
 - Engaging with comments
 - Keep hope alive and be pleasantly persistent
 
 Don't forget to celebrate your first merge!
 
-* [Git SCM intro to rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) and some tutorials: [1](https://github.com/openedx/edx-platform/wiki/How-to-Rebase-a-Pull-Request), [2](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request), [3](https://anavarre.net/how-to-rebase-a-github-pull-request/). Zip file***
+^[Git SCM intro to rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) and some tutorials: [1](https://github.com/openedx/edx-platform/wiki/How-to-Rebase-a-Pull-Request), [2](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request), [3](https://anavarre.net/how-to-rebase-a-github-pull-request/). Zip file***
