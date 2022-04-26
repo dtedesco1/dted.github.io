@@ -31,4 +31,4 @@ If I had to learn from scratch, here's what I would do:
 
 Don't forget to celebrate your first merge!
 
-* Guidance on how to rebase: [1](https://github.com/openedx/edx-platform/wiki/How-to-Rebase-a-Pull-Request), [2](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request), [3](https://anavarre.net/how-to-rebase-a-github-pull-request/).
+* [Git SCM intro to rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) and some tutorials: [1](https://github.com/openedx/edx-platform/wiki/How-to-Rebase-a-Pull-Request), [2](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request), [3](https://anavarre.net/how-to-rebase-a-github-pull-request/). Zip file***
