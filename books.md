@@ -14,9 +14,9 @@ permalink: /books/
 - The big religious ones:  Bible, Koran, Baghvad Gita, Tao Te Ching, etc.
 
 # Business & Leadership
-- [Good to Great](https://en.wikipedia.org/wiki/Good_to_Great)
-- The Fifth Discipline
-- The Effective Executive
+- [Good to Great](https://en.wikipedia.org/wiki/Good_to_Great) by Jim Collins
+- [The Fifth Discipline](https://en.wikipedia.org/wiki/The_Fifth_Discipline) by Peter Senge
+- [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive) by Peter Drucker
 
 ## Business Stories
 - Shoe Dog
@@ -28,3 +28,4 @@ permalink: /books/
 
 # 2022
 - [Bittersweet by Susan Cain](https://susancain.net/book/bittersweet/)
+- Paul Simon book
