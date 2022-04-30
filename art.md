@@ -42,18 +42,14 @@ And I can't forget the transcendant Qawwali Flamenco:
 # Vision
 
 ## Movies
-- Citizen Kane
-- 鬼子来了
-- Do The Right Thing
-- Pulp Fiction
-- Princess Mononoke
+- [Citizen Kane](https://en.wikipedia.org/wiki/Citizen_Kane)
+- [鬼子来了 (Devils on the Doorstep)](https://en.wikipedia.org/wiki/Devils_on_the_Doorstep)
+- [Do The Right Thing](https://en.wikipedia.org/wiki/Do_the_Right_Thing)
+- [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction)
+- [Princess Mononoke](https://en.wikipedia.org/wiki/Princess_Mononoke)
 
 ## Animation
 - [Cowboy Bebop](https://en.wikipedia.org/wiki/Cowboy_Bebop)
 - [Samurai Champloo](https://en.wikipedia.org/wiki/Samurai_Champloo)
 - [Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)
 - [Death Note](https://en.wikipedia.org/wiki/Death_Note)
-
-<!-- # What I'm listening to recently
-- Add a link to spotify? -->
-<!-- How to plug something in from spotify? -->
