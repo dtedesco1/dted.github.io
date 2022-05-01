@@ -27,5 +27,5 @@ permalink: /books/
 - Exhilations
 
 # 2022
-- [Bittersweet by Susan Cain](https://susancain.net/book/bittersweet/)
-- Paul Simon book
+- [Bittersweet](https://susancain.net/book/bittersweet/) by Susan Cain
+- [Miracle & Wonder](https://www.goodreads.com/en/book/show/59545874-miracle-and-wonder)live audiobook by Paul Simon and Malcolm Gladwell
