@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "DFT"
+title: "DT"
 permalink: /
 ---
 
@@ -46,7 +46,6 @@ Though not a trained developer, I enjoy contributing to open source software. [A
 - [Twitter](https://twitter.com/dtedesco1)
 - [LinkedIn](https://www.linkedin.com/in/danieltedesco/)
 - [GitHub](https://github.com/dtedesco1)
-- [Substack](https://dtedesco1.substack.com/)
+<!-- - [Substack](https://dtedesco1.substack.com/) -->
 
-<!-- 
-<iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
+<iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
