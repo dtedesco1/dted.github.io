@@ -34,7 +34,7 @@ Use technology to build positive networks of people.
 - Thinking about my [career direction](https://docs.google.com/document/d/1roDAln8NoTdiisS2fndXgqTF9PFxli1moOO-Cj-4YPM/)
 
 # Software projects
-Though not a trained developer, I enjoy contributing to open source software. [Anyone can learn it](/oss.md/).
+Though not a formally trained developer, I enjoy contributing to open source software. [Anyone can learn it](/oss.md/).
 - [EIP-4974](https://eips.ethereum.org/EIPS/eip-4974), a standard interface for fungible, non-tradable tokens, also known as EXP.
 - [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
 - [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask.
