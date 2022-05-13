@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "DFT"
+title: "DT"
 permalink: /
 ---
 
 ![Daniel Tedesco](headshot.png)
 
-# Who is this person?
+# Who?
 
 I'm an American in China who uses technology to bring humanity a bit closer together. 
 
@@ -34,7 +34,8 @@ Use technology to build positive networks of people.
 - Thinking about my [career direction](https://docs.google.com/document/d/1roDAln8NoTdiisS2fndXgqTF9PFxli1moOO-Cj-4YPM/)
 
 # Software projects
-Though not a trained developer, I enjoy contributing to open source software. [Anyone can learn it](/oss.md/).
+Though not a formally trained developer, I enjoy contributing to open source software. [Anyone can learn it](/oss.md/).
+- [EIP-4974](https://eips.ethereum.org/EIPS/eip-4974), a standard interface for fungible, non-tradable tokens, also known as EXP.
 - [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
 - [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask.
 - [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
@@ -48,5 +49,4 @@ Though not a trained developer, I enjoy contributing to open source software. [A
 - [GitHub](https://github.com/dtedesco1)
 - [Substack](https://dtedesco1.substack.com/)
 
-<!-- 
-<iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
+<!-- <iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->

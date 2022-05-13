@@ -22,6 +22,8 @@ Still writing this page...
 - Tracy Chapman
 - David Bowie
 - Bobby McFerrin
+- Nina Simone
+- Miles Davis
 
 And I can't forget the transcendant Qawwali Flamenco:
 <iframe width="640" height="484" src="https://www.youtube.com/embed/wfCenzJjD68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
