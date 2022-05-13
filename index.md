@@ -30,7 +30,7 @@ Use technology to build positive networks of people.
 ## Specific Public Interests in 2022
 - Working at [Google](https://about.google/)
 - Building a better [blockchain](/blockchain.md/) ecosystem
-- Understanding the [video game industry](/games.md/)
+- Fostering community in the [video game industry](/games.md/)
 - Thinking about my [career direction](https://docs.google.com/document/d/1roDAln8NoTdiisS2fndXgqTF9PFxli1moOO-Cj-4YPM/)
 
 # Software projects
