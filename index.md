@@ -12,7 +12,7 @@ I'm an American in China who uses technology to bring humanity a bit closer toge
 
 ## Major public interests
 Use technology to build positive networks of people.
-- US & China getting along
+- [US & China getting along](https://www.edweek.org/teaching-learning/opinion-student-explains-key-to-strategic-dialogue/2012/05)
 - Software that people love
 - Thriving communities
 
