@@ -8,7 +8,7 @@ permalink: /
 
 # Who?
 
-I'm an American in China who uses technology to bring humanity a bit closer together. 
+I'm an American in China working to bring humanity closer together. 
 
 ## Major public interests
 Use technology to build positive networks of people.
