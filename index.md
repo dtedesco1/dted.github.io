@@ -8,11 +8,11 @@ permalink: /
 
 # Who?
 
-I'm an American in China who uses technology to bring humanity a bit closer together. 
+I'm an American in China working to bring humanity closer together. 
 
 ## Major public interests
 Use technology to build positive networks of people.
-- US & China getting along
+- [US & China getting along](https://www.edweek.org/teaching-learning/opinion-student-explains-key-to-strategic-dialogue/2012/05)
 - Software that people love
 - Thriving communities
 
@@ -47,6 +47,6 @@ Though not a formally trained developer, I enjoy contributing to open source sof
 - [Twitter](https://twitter.com/dtedesco1)
 - [LinkedIn](https://www.linkedin.com/in/danieltedesco/)
 - [GitHub](https://github.com/dtedesco1)
-- [Substack](https://dtedesco1.substack.com/)
+- [Substack](https://danieltedesco.substack.com/)
 
-<!-- <iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
+<!-- Broken iframe:  <iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
