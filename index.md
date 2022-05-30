@@ -22,16 +22,16 @@ Use technology to build positive networks of people.
 - Reading [history and science fiction](/books.md/)
 - Finding rapture in [music, video games, and other art](/art.md/)
 
-## Tracking my goals
-- [Vision, Mission, Values](https://dynalist.io/d/pz2OV8bfTjaryXAKLmREY8c1)
-- [Life Plan](https://docs.google.com/spreadsheets/d/1YV1dD9vc6yEOUJNvUqFE_H3H63SICM_22eqCVEgH3mc/)
-- [Annual letters since 2015 and why I write them](https://mirror.xyz/0x072408eA37972B83720693D158a85D98A8316340/Y2l7o7Cx41l6jEwVZT5zgRZDqMAXB6LfDA7FL7-QV8I)
-
 ## Specific Public Interests in 2022
 - Working at [Google](https://about.google/)
 - Building a better [blockchain](/blockchain.md/) ecosystem
 - Fostering community in the [video game industry](/games.md/)
 - Thinking about my [career direction](https://docs.google.com/document/d/1roDAln8NoTdiisS2fndXgqTF9PFxli1moOO-Cj-4YPM/)
+
+## Tracking my goals
+- [Vision, Mission, Values](https://dynalist.io/d/pz2OV8bfTjaryXAKLmREY8c1)
+- [Life Plan](https://docs.google.com/spreadsheets/d/1YV1dD9vc6yEOUJNvUqFE_H3H63SICM_22eqCVEgH3mc/)
+- [Annual letters since 2015 and why I write them](https://mirror.xyz/0x072408eA37972B83720693D158a85D98A8316340/Y2l7o7Cx41l6jEwVZT5zgRZDqMAXB6LfDA7FL7-QV8I)
 
 # Software projects
 Though not a formally trained developer, I enjoy contributing to open source software. [Anyone can learn it](/oss.md/).
