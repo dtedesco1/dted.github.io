@@ -43,10 +43,12 @@ Though not a formally trained developer, I enjoy contributing to open source sof
 - [Tuqiu](https://showcase.ethglobal.com/buildquest/tuqui-uz7h1), a brick breaker game for NFTs.
 
 # Subscribe
-## Socials
+## Social
 - [Twitter](https://twitter.com/dtedesco1)
 - [LinkedIn](https://www.linkedin.com/in/danieltedesco/)
 - [GitHub](https://github.com/dtedesco1)
+
+## Annual Letters
 - [Substack](https://danieltedesco.substack.com/)
 
 <!-- Broken iframe:  <iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
