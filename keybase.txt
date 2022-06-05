@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dtedesco1
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danieltedesco.org
+  * I am dtedesco1 (https://keybase.io/dtedesco1) on keybase.
+  * I have a public key ASCBeRXbQB6oyNITWdeOhnv-DJdVwXXSW7vJsNRlG22fLgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120817915db401ea8c8d21359d78e867bfe0c9755c175d25bbbc9b0d4651b6d9f2e0a",
+      "host": "keybase.io",
+      "kid": "0120817915db401ea8c8d21359d78e867bfe0c9755c175d25bbbc9b0d4651b6d9f2e0a",
+      "uid": "713b6816991a00386a08671ee70e2d19",
+      "username": "dtedesco1"
+    },
+    "merkle_root": {
+      "ctime": 1654405974,
+      "hash": "b4b4d00df9718aa6467f51856ca77803debd79254eb7e0096d9b7fedd858908d81c1f595ed42ad5a371f0dfbca3360acc531eb3691bde003c9e295a387e0b033",
+      "hash_meta": "00cd0eb6ef46f76718e6de45cb8be04cf9a224e1fe3b355daeaffe6f4b1030fe",
+      "seqno": 22615768
+    },
+    "service": {
+      "entropy": "VI2njwvE/DFDJnhX2QZ8gDwK",
+      "hostname": "danieltedesco.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.2"
+  },
+  "ctime": 1654405995,
+  "expire_in": 504576000,
+  "prev": "be8c345d88c3b4d3657a4b3bfe62ba9fc0b14b018940fe3605a713f524a67664",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggXkV20AeqMjSE1nXjoZ7/gyXVcF10lu7ybDUZRttny4Kp3BheWxvYWTESpcCDsQgvow0XYjDtNNleks7/mK6n8CxSwGJQP42BacT9SSmdmTEIL+NEwMWvm0bwgNHQkytzvFYiyFPKo8PEqu+C0H+xMHkAgHCo3NpZ8RAviEmLUnYSoQkDUAsNIKI8dSUoUl/umBuxXiBWYJWb9tlE49u5tlDZYhQ3FiviEyMAyBMMhxYL2ZDZ2zFWsyLBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDMFIkcHvx+7DpyOmpIRg6WQSLwyVRWunh+YXGxTc8fVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dtedesco1
+
+==================================================================
