@@ -33,7 +33,6 @@ Use technology to build positive networks of people.
 - [Life Plan](https://docs.google.com/spreadsheets/d/1YV1dD9vc6yEOUJNvUqFE_H3H63SICM_22eqCVEgH3mc/)
 - [Annual letters since 2015 and why I write them](https://mirror.xyz/0x072408eA37972B83720693D158a85D98A8316340/Y2l7o7Cx41l6jEwVZT5zgRZDqMAXB6LfDA7FL7-QV8I)
 
-<a name="code"></a>
 # Software projects
 Though not a formally trained developer, I enjoy contributing to open source software. [Anyone can learn it](/oss.md/).
 - [EIP-4974](https://eips.ethereum.org/EIPS/eip-4974), a standard interface for fungible, non-tradable tokens, also known as EXP.
