@@ -34,7 +34,7 @@ Use technology to build positive networks of people.
 - [Annual letters since 2015 and why I write them](https://mirror.xyz/0x072408eA37972B83720693D158a85D98A8316340/Y2l7o7Cx41l6jEwVZT5zgRZDqMAXB6LfDA7FL7-QV8I)
 
 # Software projects
-Though not a formally trained developer, I enjoy contributing to open source software. [Anyone can learn it](/oss.md/).
+I actively contribute to open source software. [Anyone can learn it](/oss.md/). Here are a few examples:
 - [EIP-4974](https://eips.ethereum.org/EIPS/eip-4974), a standard interface for fungible, non-tradable tokens, also known as EXP.
 - [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
 - [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask.
