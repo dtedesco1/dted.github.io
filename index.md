@@ -22,7 +22,7 @@ Use technology to build positive networks of people.
 - Reading [history and science fiction](/books.md/)
 - Finding rapture in [music, video games, and other art](/art.md/)
 
-## Specific Public Interests in 2022
+## Specific public interests in 2022
 - Working at [Google](https://about.google/)
 - Building a better [blockchain](/blockchain.md/) ecosystem
 - Fostering community in the [video game industry](/games.md/)
