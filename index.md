@@ -53,4 +53,4 @@ I actively contribute to open source software. [Anyone can learn it](/oss.md/). 
 
 <!-- Broken iframe:  <iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
 
-<iframe src="https://dtedesco1.substack.com/embed" width="480" height="320";" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" frameborder="0" scrolling="no"></iframe>
