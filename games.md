@@ -20,7 +20,7 @@ permalink: /games/
 
 ### Paid services, but still good to get on their newsletters: 
 - GameRefinery, 
-- Data.ai
+- [Data.ai](https://www.data.ai/)
 - NewZoo
 - SensorTower
 
