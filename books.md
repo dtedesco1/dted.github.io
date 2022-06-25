@@ -19,11 +19,11 @@ permalink: /books/
 - [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive) by Peter Drucker
 
 ## Business Stories
-- Shoe Dog
+- Shoe Dog, by Phil Knight
 
 # Science Fiction
 - Dune
-- Three Body Problem
+- Three Body Problem, by Liu Cixin
 - Exhilations
 
 # 2022
@@ -32,4 +32,4 @@ permalink: /books/
 - The Voltage Effect
 - Corruptible
 - God Emperor of Dune
-- Brave New World (re-read)
+- Brave New World, by George Orwell (re-read)
