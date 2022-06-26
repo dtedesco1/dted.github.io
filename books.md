@@ -19,11 +19,11 @@ permalink: /books/
 - [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive) by Peter Drucker
 
 ## Business Stories
-- Shoe Dog, by Phil Knight
+- [Shoe Dog](https://en.wikipedia.org/wiki/Shoe_Dog), by Phil Knight. The story of Nike told by its founder.
 
 # Science Fiction
 - Dune
-- Three Body Problem, by Liu Cixin
+- [Three Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)), by Liu Cixin. Fantastic science fiction series.
 - Exhilations
 
 # 2022
