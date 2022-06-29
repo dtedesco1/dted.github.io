@@ -22,7 +22,7 @@ Use technology to build positive networks of people.
 - Reading [history and science fiction](/books.md/)
 - Finding rapture in [music, video games, and other art](/art.md/)
 
-## Specific Public Interests in 2022
+## Specific public interests in 2022
 - Working at [Google](https://about.google/)
 - Building a better [blockchain](/blockchain.md/) ecosystem
 - Fostering community in the [video game industry](/games.md/)
@@ -34,7 +34,7 @@ Use technology to build positive networks of people.
 - [Annual letters since 2015 and why I write them](https://mirror.xyz/0x072408eA37972B83720693D158a85D98A8316340/Y2l7o7Cx41l6jEwVZT5zgRZDqMAXB6LfDA7FL7-QV8I)
 
 # Software projects
-Though not a formally trained developer, I enjoy contributing to open source software. [Anyone can learn it](/oss.md/).
+I actively contribute to open source software. [Anyone can learn it](/oss.md/). Here are a few examples:
 - [EIP-4974](https://eips.ethereum.org/EIPS/eip-4974), a standard interface for fungible, non-tradable tokens, also known as EXP.
 - [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
 - [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask.
@@ -43,10 +43,12 @@ Though not a formally trained developer, I enjoy contributing to open source sof
 - [Tuqiu](https://showcase.ethglobal.com/buildquest/tuqui-uz7h1), a brick breaker game for NFTs.
 
 # Subscribe
-## Socials
+## Social
 - [Twitter](https://twitter.com/dtedesco1)
 - [LinkedIn](https://www.linkedin.com/in/danieltedesco/)
 - [GitHub](https://github.com/dtedesco1)
+
+## Annual Letters
 - [Substack](https://danieltedesco.substack.com/)
 
 <!-- Broken iframe:  <iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->

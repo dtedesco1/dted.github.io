@@ -20,9 +20,9 @@ permalink: /games/
 
 ### Paid services, but still good to get on their newsletters: 
 - GameRefinery, 
-- Data.ai
-- NewZoo
-- SensorTower
+- [Data.ai](https://www.data.ai/)
+- [NewZoo](https://newzoo.com/))
+- [SensorTower](https://sensortower.com/)
 
 ## Tier 2
 
