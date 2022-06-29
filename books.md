@@ -25,11 +25,13 @@ permalink: /books/
 - Dune
 - Three Body Problem
 - Exhilations
+- Ficciones, Jorge Luis Borges
 
 # 2022
 - [Bittersweet](https://susancain.net/book/bittersweet/) by Susan Cain
 - [Miracle & Wonder](https://www.goodreads.com/en/book/show/59545874-miracle-and-wonder)live audiobook by Paul Simon and Malcolm Gladwell
 - The Voltage Effect
 - Corruptible
-- God Emperor of Dune
+- God Emperor of Dune, by Frank Herbert
 - Brave New World (re-read)
+- The Happiness Hypothesis, by Jonathan Haidt
