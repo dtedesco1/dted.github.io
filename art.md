@@ -55,3 +55,18 @@ And I can't forget the transcendant Qawwali Flamenco:
 - [Samurai Champloo](https://en.wikipedia.org/wiki/Samurai_Champloo)
 - [Attack on Titan](https://en.wikipedia.org/wiki/Attack_on_Titan)
 - [Death Note](https://en.wikipedia.org/wiki/Death_Note)
+
+## Paint
+- Magritte
+- Matisse
+- Dalì
+- M.C. Escher
+- Hilma af Klint
+- Xu Beihong 
+
+# Words
+
+- Rumi
+- Emily Dickinson
+- Eric B. & Rakim
+- Bob Dylan 
