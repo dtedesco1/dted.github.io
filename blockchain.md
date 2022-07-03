@@ -74,6 +74,7 @@ Keep in mind:  None of the "models" for blockchain games are proven or sustainab
 # _DAOs_
 - [How to DAO Course Notes](https://docs.google.com/document/d/1jxbb3YkrjAT1TUe6W2yCFUAsXUhdVt5JYoJwmMfykoQ/edit)
 - [DAO Cannon by a16z](https://future.a16z.com/dao-canon)
+- The Ownership Economy (podcast)
 
 
 # Regulation
