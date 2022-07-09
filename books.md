@@ -29,7 +29,7 @@ permalink: /books/
 
 # 2022
 - [Bittersweet](https://susancain.net/book/bittersweet/) by Susan Cain
-- [Miracle & Wonder](https://www.goodreads.com/en/book/show/59545874-miracle-and-wonder)live audiobook by Paul Simon and Malcolm Gladwell
+- [Miracle & Wonder](https://www.goodreads.com/en/book/show/59545874-miracle-and-wonder) live audiobook by Paul Simon and Malcolm Gladwell
 - The Voltage Effect
 - Corruptible
 - God Emperor of Dune, by Frank Herbert
