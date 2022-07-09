@@ -35,3 +35,4 @@ permalink: /books/
 - God Emperor of Dune, by Frank Herbert
 - Brave New World (re-read)
 - The Happiness Hypothesis, by Jonathan Haidt
+- Unleash The Giant Within, Tony Robbins
