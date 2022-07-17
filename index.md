@@ -41,6 +41,7 @@ I actively contribute to open source software. [Anyone can learn it](/oss.md/). 
 - [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
 - [NFT-GM](https://github.com/dtedesco1/nft-gm-vanilla), a simple way for your NFTs to say hello.
 - [Tuqiu](https://showcase.ethglobal.com/buildquest/tuqui-uz7h1), a brick breaker game for NFTs.
+- [Web3 Analytics Demo](https://github.com/allenday/web3-analytics-demo), a demo project connecting Google Analytics with Ethereum addresses
 
 # Subscribe
 ## Social
