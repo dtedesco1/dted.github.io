@@ -13,7 +13,6 @@ Still writing this page...
 - [Nina Simone live in Holland 1965 and England 1968](https://youtu.be/ZxkMb-tp3Bk)
 - [David Bowie Reality Tour](https://en.wikipedia.org/wiki/A_Reality_Tour_(album))
 - [Stop Making Sense Talking Heads](https://en.wikipedia.org/wiki/Stop_Making_Sense)
-- The Mingus concert -- add the link
 
 ## What I grew up listening to
 - Nusrat Fateh Ali Khan
