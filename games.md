@@ -4,7 +4,7 @@ title: "Games"
 permalink: /games/
 ---
 
-[[[[Whole page is still under construction]]]]
+I read and listen to a lot of video game industry news. Here are some of my favorite sources (and a list of my favorite games below!)
 
 # Industry News
 ## Tier 1
@@ -19,7 +19,7 @@ permalink: /games/
 - Master the Meta
 
 ### Paid services, but still good to get on their newsletters: 
-- GameRefinery, 
+- GameRefinery
 - [Data.ai](https://www.data.ai/)
 - [NewZoo](https://newzoo.com/))
 - [SensorTower](https://sensortower.com/)
