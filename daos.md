@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Dan's DAO Resources - August 2022"
-permalink: /dao/
+permalink: /daos/
 ---
 
 # DAO Resources - August 2022
