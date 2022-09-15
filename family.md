@@ -9,3 +9,5 @@ In the 1920's a bunch of Italians emigrated from Italy to Philadelphia. I'm not 
 Tedesco German in Italian
 
 3 generations in Philly area
+
+Grandfathers in WWII
