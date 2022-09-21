@@ -18,6 +18,7 @@ permalink: /books/
 - [The Fifth Discipline](https://en.wikipedia.org/wiki/The_Fifth_Discipline) by Peter Senge
 - [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive) by Peter Drucker
 
+
 ## Business Stories
 - [Shoe Dog](https://en.wikipedia.org/wiki/Shoe_Dog), by Phil Knight. The story of Nike told by its founder.
 
@@ -36,3 +37,5 @@ permalink: /books/
 - Brave New World (re-read)
 - The Happiness Hypothesis, by Jonathan Haidt
 - Unleash The Giant Within, Tony Robbins
+- Snow Crash
+- Beyond Entrepreneurship 2.0
