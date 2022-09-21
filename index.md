@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "DT"
+title: "Daniel Tedesco"
 permalink: /
 ---
-
-![Daniel Tedesco](headshot.png)
 
 # Who?
 
@@ -48,7 +46,9 @@ I actively contribute to open source software. [Anyone can learn it](/oss.md/). 
 - [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
 - [Web3 Analytics Demo](https://github.com/allenday/web3-analytics-demo), a demo project connecting Google Analytics with Ethereum addresses
 
-# Subscribe
+# Connect
+
+![Daniel Tedesco](headshot.png)
 
 ## Social
 
