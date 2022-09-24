@@ -39,3 +39,4 @@ permalink: /books/
 - Unleash The Giant Within, Tony Robbins
 - Snow Crash
 - Beyond Entrepreneurship 2.0
+- Seveneves
