@@ -24,7 +24,7 @@ Use technology to build positive networks of people.
 - Finding rapture in [music, video games, and other art](/art.md/)
 
 ## Specific public interests in 2022
-
+Overview of what I'm doing [now](/now.md/).
 - Working at [Google](https://about.google/)
 - Building a better [blockchain](/blockchain.md/) ecosystem
 - Fostering community in the [video game industry](/games.md/)
