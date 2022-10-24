@@ -28,6 +28,15 @@ permalink: /books/
 - Exhilations
 - Ficciones, Jorge Luis Borges
 
+# Favorite Podcasts
+- Lex Fridman Podcast
+- Econtalk
+- Tim Ferriss Podcast
+- Brain Science with Ginger Campbell
+- Science Magazine Podcast
+- Nature Podcast
+- The Moth
+
 # 2022
 - [Bittersweet](https://susancain.net/book/bittersweet/) by Susan Cain
 - [Miracle & Wonder](https://www.goodreads.com/en/book/show/59545874-miracle-and-wonder) live audiobook by Paul Simon and Malcolm Gladwell
