@@ -5,6 +5,9 @@
 - Spotify
 - Elevate
 - Instapaper
+- Google Authenticator
+- Daily Art
+- Tabs
 
 # OSX
 - VS Code
