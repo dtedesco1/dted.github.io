@@ -42,7 +42,7 @@ I actively contribute to open source software. [Anyone can learn it](/oss.md/). 
 
 - [EIP-4974](https://eips.ethereum.org/EIPS/eip-4974), a standard interface for fungible, non-tradable tokens, also known as EXP.
 - [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
-- [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask.
+- [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask. (Need to relocate from Heroku.)
 - [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
 - [Web3 Analytics Demo](https://github.com/allenday/web3-analytics-demo), a demo project connecting Google Analytics with Ethereum addresses
 
