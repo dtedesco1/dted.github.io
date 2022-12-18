@@ -18,6 +18,7 @@ I work for Google, advising APAC game companies on international growth.
 - Lots of exercise via [Les Mills On Demand](https://www.lesmills.com/ondemand/).
 - Reading lots of [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) books.
 
+<!-- Conway's Game of Life Footer Visualization -->
 <canvas id="game"></canvas>
 <script>
   // Get a reference to the canvas element
