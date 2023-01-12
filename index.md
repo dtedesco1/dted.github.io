@@ -26,7 +26,7 @@ Use technology to build positive networks of people.
 ## Specific public interests in 2022
 Overview of what I'm doing [now](/now.md/).
 - Working at [Google](https://about.google/)
-- Building a better [blockchain](/blockchain.md/) ecosystem
+- Building a better [blockchain](/blockchain.md/) ecosystem and better [DAOs](/daos.md/)
 - Fostering community in the [video game industry](/games.md/)
 - Thinking about my [career direction](https://docs.google.com/document/d/1roDAln8NoTdiisS2fndXgqTF9PFxli1moOO-Cj-4YPM/)
 
@@ -42,7 +42,7 @@ I actively contribute to open source software. [Anyone can learn it](/oss.md/). 
 
 - [EIP-4974](https://eips.ethereum.org/EIPS/eip-4974), a standard interface for fungible, non-tradable tokens, also known as EXP.
 - [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
-- [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask.
+- [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask. (Need to relocate from Heroku.)
 - [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
 - [Web3 Analytics Demo](https://github.com/allenday/web3-analytics-demo), a demo project connecting Google Analytics with Ethereum addresses
 
