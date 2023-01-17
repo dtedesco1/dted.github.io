@@ -44,7 +44,7 @@ I actively contribute to open source software. [Anyone can learn it](/oss.md/). 
 - [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
 - [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask. (Need to relocate from Heroku.)
 - [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
-- [Fun web projects](/web-projects/), a bunch of little web projects I've built for fun.
+- [Fun web projects](/web-projects/organic-background-1.html), a bunch of little web projects I've built for fun.
 <!-- - [Web3 Analytics Demo](https://github.com/allenday/web3-analytics-demo), a demo project connecting Google Analytics with Ethereum addresses -->
 
 # Connect
