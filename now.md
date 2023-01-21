@@ -15,4 +15,4 @@ I work for Google, advising APAC game companies on international growth.
 - Slowly learning guitar via the fantastic and free [JustinGuitar](https://www.justinguitar.com) site.
 - Exploring blockchain and AI ecosystems, and I [livestream](https://docs.google.com/document/d/1ta_6tSCGfC31iIfhz4bfC_oBKyNZGEdDsZkD-BRXY_Y/edit#heading=h.c65p4fi688tj) about it sometimes.
 - Lots of exercise via [Les Mills On Demand](https://www.lesmills.com/ondemand/).
-- Reading lots of [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) books.
+- Reading Bee Democracy and Atomic Habits.
