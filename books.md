@@ -51,3 +51,4 @@ permalink: /books/
 - Seveneves
 - When The Body Says No
 - Bee Democracy. 4/5. Sweeping review of what humans know about how bees choose new colony locations. The process is decentralized, and I think human systems can learn from them. Interesting hueristics that can be applied more by humans are things like many independent reviews before voting, cooldown effects for any individual lobbying, quorums instead of majorities, and, of course, waggle dances.
+- King of Kings, audio narrative by Dan Carlin
