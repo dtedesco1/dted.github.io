@@ -9,7 +9,7 @@ permalink: /web/
 {% assign directory = 'web-projects' %}
 {% for file in site.static_files %}
   {% if file.path contains directory %}
-    - <a href="{{ file.path }}">{{ file.name }}</a>
+    - <[{{ file.path }}]({{ file.name }})
   {% endif %}
 {% endfor %}
 <!-- {% for page in site.pages %}
