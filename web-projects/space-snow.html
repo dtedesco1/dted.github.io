@@ -36,8 +36,8 @@
       // Animate the pattern
       function animate() {
         requestAnimationFrame(animate);
-        pattern.rotation.x += 0.01;
-        pattern.rotation.y += 0.01;
+        pattern.rotation.x += 0.001;
+        pattern.rotation.y += 0.001;
         renderer.render(scene, camera);
       }
       animate();
