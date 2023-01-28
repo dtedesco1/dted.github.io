@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 category: "craft"
 permalink: /paul-canetti/
 ---
