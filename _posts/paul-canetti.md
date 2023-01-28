@@ -1,6 +1,7 @@
 ---
 layout: post
 category: "craft"
+permalink: /paul-canetti/
 ---
 
 # In this episode
