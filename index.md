@@ -28,7 +28,7 @@ Overview of what I'm doing [now](/now.md/).
 - Working at [Google](https://about.google/)
 - Building a better [blockchain](/blockchain.md/) ecosystem and better [DAOs](/daos.md/)
 - Fostering community in the [video game industry](/games.md/)
-- Thinking about my [career direction](https://docs.google.com/document/d/1roDAln8NoTdiisS2fndXgqTF9PFxli1moOO-Cj-4YPM/)
+- Hosting [The Craft Podcast](craft.md) and [Community Service Hours](https://phor.net/#hour)
 
 ## Tracking my goals
 
