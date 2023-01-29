@@ -37,18 +37,21 @@ permalink: /books/
 - Nature Podcast
 - The Moth
 
+# 2023
+- [Atomic Habits](https://jamesclear.com/atomic-habits), by James Clear. 
+
 # 2022
 - [Bittersweet](https://susancain.net/book/bittersweet/) by Susan Cain
-- [Miracle & Wonder](https://www.goodreads.com/en/book/show/59545874-miracle-and-wonder) live audiobook by Paul Simon and Malcolm Gladwell
-- The Voltage Effect
-- Corruptible
-- God Emperor of Dune, by Frank Herbert
-- Brave New World (re-read)
-- The Happiness Hypothesis, by Jonathan Haidt
-- Unleash The Giant Within, Tony Robbins
-- Snow Crash
-- Beyond Entrepreneurship 2.0
-- Seveneves
-- When The Body Says No
-- Bee Democracy. 4/5. Sweeping review of what humans know about how bees choose new colony locations. The process is decentralized, and I think human systems can learn from them. Interesting hueristics that can be applied more by humans are things like many independent reviews before voting, cooldown effects for any individual lobbying, quorums instead of majorities, and, of course, waggle dances.
-- King of Kings, audio narrative by Dan Carlin
+- [Miracle & Wonder](https://www.goodreads.com/en/book/show/59545874-miracle-and-wonder), live audiobook by Paul Simon and Malcolm Gladwell.
+- [The Voltage Effect](https://www.goodreads.com/en/book/show/57926125), by John A. List. 
+- [Corruptible](https://www.goodreads.com/book/show/56898187-corruptible), by Brian Klass.
+- God Emperor of Dune, by Frank Herbert.
+- Brave New World, by Aldous Huxley.
+- The Happiness Hypothesis, by Jonathan Haidt.
+- Unleash The Giant Within, by Tony Robbins.
+- Snow Crash, by Neal Stephenson.
+- Beyond Entrepreneurship 2.0, by Jim Collins.
+- Seveneves, by Neal Stephenson. 4/5. 
+- When The Body Says No. 4/5. A fascinating look at the body's stress response system, and how it can be used to understand and treat a wide variety of diseases. The book is a bit dated, but the science is still relevant. It helped me think about how trauma in my own family is passed down through generations--not being the fault of any individual along the way--and how I can break that cycle.
+- Honeybee Democracy, by Thomas Seeley. 4/5. Sweeping review of what humans know about how bees choose new colony locations. The process is decentralized, and I think human systems can learn from them. Interesting heuristics that can be applied more by humans are things like many independent reviews before voting, cooldown effects for any individual lobbying, quorums instead of majorities, and, of course, waggle dances.
+- King of Kings, audio narrative by Dan Carlin. 4/5. Gripping account of the Persian Empire's interactions with Greece from Cyrus the Great to Alexander the Great. A motif that stuck out is just how much of the facts from that time are unknown or seeped in so much propaganda that no one knows what's true, even down to whether certain individuals exists or who won battles of thousands of warriors.

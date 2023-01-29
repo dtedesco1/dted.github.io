@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Paul Canetti"
 category: "craft"
 permalink: /paul-canetti/
 ---
