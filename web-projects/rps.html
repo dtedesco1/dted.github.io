@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+      $(document).ready(function() {
+        var player1Score = 0;
+        var player2Score = 0;
+        var player3Score = 0;
+        var currentPlayer = 1;
+        var options = ["rock", "paper", "scissors"];
+
+        $("#next-turn").click(function() {
+          var player1Throw = options[Math.floor(Math.random() * 3)];
+          var player2Throw = options[Math.floor(Math.random() * 3)];
+          var player3Throw = options[Math.floor(Math.random() * 3)];
+
+          $("#player1").text("Player 1 throws " + player1Throw);
+          $("#player2").text("Player 2 throws " + player2Throw);
+          $("#player3").text("Player 3 throws " + player3Throw);
+
+          if (player1Throw === "rock" && player2Throw === "scissors") {
+            player1Score++;
+          } else if (player2Throw === "rock" && player1Throw === "scissors") {
+            player2Score++;
+          }
+
+          if (player2Throw === "paper" && player3Throw === "rock") {
+            player2Score++;
+          } else if (player3Throw === "paper" && player2Throw === "rock") {
+            player3Score++;
+          }
+
+          if (player1Throw === "scissors" && player3Throw === "paper") {
+            player1Score++;
+          } else if (player3Throw === "scissors" && player1Throw === "paper") {
+            player3Score++;
+          }
+
+          $("#score1").text("Player 1: " + player1Score);
+          $("#score2").text("Player 2: " + player2Score);
+          $("#score3").text("Player 3: " + player3Score);
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <div id="player1"></div>
+    <div id="player2"></div>
+    <div id="player3"></div>
+    <br />
+    <div id="score1"></div>
+    <div id="score2"></div>
+    <div id="score3"></div>
+    <br />
+    <button id="next-turn">Next Turn</button>
+  </body>
+</html>
