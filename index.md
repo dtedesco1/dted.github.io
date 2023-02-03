@@ -40,7 +40,7 @@ Overview of what I'm doing [now](/now.md/).
 
 I actively contribute to open source software. [Anyone can learn it](/oss.md/). Here are a few examples:
 
-- [EIP-4974](https://eips.ethereum.org/EIPS/eip-4974), a standard interface for fungible, non-tradable tokens, also known as EXP.
+- [EIP-4974](https://eips.ethereum.org/EIPS/eip-4974), a standard EVM interface for ratings.
 - [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
 - [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask. (Need to relocate from Heroku.)
 - [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
