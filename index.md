@@ -26,7 +26,7 @@ Use technology to build positive networks of people.
 ## Specific public interests in 2022
 Overview of what I'm doing [now](/now.md/).
 - Working at [Google](https://about.google/)
-- Building a better [blockchain](/blockchain.md/) ecosystem and better [DAOs](/daos.md/)
+- Studying [blockchain](/blockchain.md/) ecosystems, [DAOs](/daos.md/), and generative AI
 - Fostering community in the [video game industry](/games.md/)
 - Hosting [The Craft Podcast](craft.md) and [Community Service Hours](https://phor.net/#hour)
 
