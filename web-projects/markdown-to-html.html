@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Markdown to HTML</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+    <style>
+        textarea {
+            height: 10rem;
+        }
+    </style>
+</head>
+<body class="py-4 px-4">
+    <main class="max-w-lg mx-auto">
+        <h1 class="text-xl font-bold mb-4">Markdown to HTML</h1>
+        <section>
+            <h2 class="text-lg font-bold mb-2">Markdown:</h2>
+            <textarea id="markdown" class="w-full p-2 border border-gray-400 rounded" placeholder="Enter Markdown..."></textarea>
+        </section>
+        <section class="mt-4">
+            <h2 class="text-lg font-bold mb-2">HTML:</h2>
+            <textarea id="html" class="w-full p-2 border border-gray-400 rounded" readonly></textarea>
+        </section>
+        <section class="mt-4">
+            <button id="convert-btn" class="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600">Convert</button>
+            <button id="copy-btn" class="bg-gray-500 text-white py-2 px-4 rounded hover:bg-gray-600 ml-4">Copy to Clipboard</button>
+            <button id="reset-btn" class="bg-red-500 text-white py-2 px-4 rounded hover:bg-red-600 ml-4">Reset</button>
+        </section>
+    </main>
+    
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        const markdownTextarea = document.getElementById('markdown');
+        const htmlTextarea = document.getElementById('html');
+        const convertBtn = document.getElementById('convert-btn');
+        const copyBtn = document.getElementById('copy-btn');
+        const resetBtn = document.getElementById('reset-btn');
+        
+        convertBtn.addEventListener('click', () => {
+            try {
+                const markdown = markdownTextarea.value;
+                const html = marked(markdown);
+                htmlTextarea.value = html;
+            } catch (err) {
+                alert('Invalid Markdown syntax!');
+            }
+        });
+        
+        copyBtn.addEventListener('click', () => {
+            htmlTextarea.select();
+            document.execCommand('copy');
+            alert('HTML copied to clipboard!');
+        });
+        
+        resetBtn.addEventListener('click', () => {
+            markdownTextarea.value = '';
+            htmlTextarea.value = '';
+        });
+    </script>
+</body>
+</html>
