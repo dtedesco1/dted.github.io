@@ -15,12 +15,30 @@ permalink: /web/
   .gallery-item {
     position: relative;
     overflow: hidden;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+  }
+
+  .gallery-item:hover {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
 
   .gallery-item a {
     display: block;
     margin-bottom: 8px;
+    font-weight: bold;
     text-align: center;
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+
+  .gallery-item a:hover {
+    color: #007bff;
   }
 
   .gallery-item iframe {
