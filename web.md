@@ -49,10 +49,7 @@ permalink: /web/
 </style>
 
 # Web Projects I've Made
-(Often with help from ChatGPT)
-
-# Web Projects I've Made
-(Often with help from ChatGPT)
+(With help from ChatGPT)
 
 <div class="grid-gallery">
 {% assign directory = 'web-projects' %}
@@ -83,8 +80,7 @@ permalink: /web/
         })
         .catch((error) => {
           console.error('Error fetching HTML file:', error);
-          link.innerText = 'Error loading title';
-        });
+          link.innerText = filename; // Use the filename as the fallback
     });
   });
 </script>
