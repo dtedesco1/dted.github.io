@@ -51,12 +51,15 @@ permalink: /web/
 # Web Projects I've Made
 (With help from ChatGPT)
 
+# Web Projects I've Made
+(Often with help from ChatGPT)
+
 <div class="grid-gallery">
 {% assign directory = 'web-projects' %}
 {% for file in site.static_files %}
   {% if file.path contains directory %}
     <div class="gallery-item">
-      <a href="{{ file.path }}" target="_blank" data-src="{{ file.path }}">Loading...</a>
+      <a href="{{ file.path }}" target="_blank" data-src="{{ file.path }}" data-filename="{{ file.name }}">Loading...</a>
       <iframe src="{{ file.path }}" width="200" height="150" frameborder="0"></iframe>
     </div>
   {% endif %}
@@ -69,6 +72,7 @@ permalink: /web/
 
     links.forEach((link) => {
       const src = link.getAttribute('data-src');
+      const filename = link.getAttribute('data-filename');
 
       fetch(src)
         .then((response) => response.text())
@@ -81,6 +85,7 @@ permalink: /web/
         .catch((error) => {
           console.error('Error fetching HTML file:', error);
           link.innerText = filename; // Use the filename as the fallback
+        });
     });
   });
 </script>
