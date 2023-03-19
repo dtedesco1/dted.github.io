@@ -51,20 +51,43 @@ permalink: /web/
 # Web Projects I've Made
 (Often with help from ChatGPT)
 
+# Web Projects I've Made
+(Often with help from ChatGPT)
+
 <div class="grid-gallery">
 {% assign directory = 'web-projects' %}
 {% for file in site.static_files %}
   {% if file.path contains directory %}
-    {% assign file_slug = file.path | remove_first: '/' | remove: '.html' %}
-    {% assign page = site.pages | where: "url", file_slug | first %}
-    {% assign page_title = page.title | default: file.name %}
     <div class="gallery-item">
-      <a href="{{ file.path }}" target="_blank">{{ page_title }}</a>
+      <a href="{{ file.path }}" target="_blank" data-src="{{ file.path }}">Loading...</a>
       <iframe src="{{ file.path }}" width="200" height="150" frameborder="0"></iframe>
     </div>
   {% endif %}
 {% endfor %}
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const links = document.querySelectorAll('.gallery-item a[data-src]');
+
+    links.forEach((link) => {
+      const src = link.getAttribute('data-src');
+
+      fetch(src)
+        .then((response) => response.text())
+        .then((html) => {
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(html, 'text/html');
+          const title = doc.querySelector('title').innerText;
+          link.innerText = title;
+        })
+        .catch((error) => {
+          console.error('Error fetching HTML file:', error);
+          link.innerText = 'Error loading title';
+        });
+    });
+  });
+</script>
 
 # Interesting Webdev Tools
 - https://edwardtufte.github.io/tufte-css/
