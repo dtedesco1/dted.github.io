@@ -55,8 +55,11 @@ permalink: /web/
 {% assign directory = 'web-projects' %}
 {% for file in site.static_files %}
   {% if file.path contains directory %}
+    {% assign file_slug = file.path | remove_first: '/' | remove: '.html' %}
+    {% assign page = site.pages | where: "url", file_slug | first %}
+    {% assign page_title = page.title | default: file.name %}
     <div class="gallery-item">
-      <a href="{{ file.path }}" target="_blank">{{ file.name }}</a>
+      <a href="{{ file.path }}" target="_blank">{{ page_title }}</a>
       <iframe src="{{ file.path }}" width="200" height="150" frameborder="0"></iframe>
     </div>
   {% endif %}
