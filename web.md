@@ -49,10 +49,8 @@ permalink: /web/
 </style>
 
 # Web Projects I've Made
-(With help from ChatGPT)
-
-# Web Projects I've Made
 (Often with help from ChatGPT)
+Click each title to see it full screen.
 
 <div class="grid-gallery">
 {% assign directory = 'web-projects' %}
