@@ -16,7 +16,7 @@ I work for [Google](https://about.google/), advising APAC game companies on inte
 - Obessing over ChatGPT's API and building little [web projects](/web.md) with it.
 - Exploring blockchain and AI ecosystems, I [livestream](https://docs.google.com/document/d/1ta_6tSCGfC31iIfhz4bfC_oBKyNZGEdDsZkD-BRXY_Y/edit#heading=h.c65p4fi688tj) about it weekly and [interview folks](https://www.youtube.com/@thecraftpodcast).
 - Lots of exercise via [Les Mills On Demand](https://www.lesmills.com/ondemand/).
-- Reading Bee Democracy and Atomic Habits.
+- Reading The Smartest Guys in The Room and Stories of Your Lives And Others.
 
 <!-- Conway's Game of Life Footer Visualization -->
 <canvas id="game"></canvas>
