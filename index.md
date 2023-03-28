@@ -12,14 +12,14 @@ I'm an American in China working to bring humanity closer together.
 
 Use technology to build positive networks of people.
 
-- [US & China getting along](https://www.edweek.org/teaching-learning/opinion-student-explains-key-to-strategic-dialogue/2012/05)
 - Software that people love
 - Thriving communities
+- [US & China getting along](https://www.edweek.org/teaching-learning/opinion-student-explains-key-to-strategic-dialogue/2012/05)
 
 ## Specific public interests in 2023
 Overview of what I'm doing [now](/now.md/).
+
 - Working at [Google](https://about.google/)
-<!-- Link (more below) to the "# Software Projects heading. -->
 - Obsessing over [generative AI](https://github.com/dtedesco1) and building things with it (more below).
 - Studying [blockchain](/blockchain.md/) ecosystems and [DAOs](/daos.md/)
 - Fostering community in the [video game industry](/games.md/)
@@ -42,7 +42,7 @@ Overview of what I'm doing [now](/now.md/).
 
 I actively contribute to open source software. [Anyone can learn it](/oss.md/). Here are a few examples:
 
-- [Fun web projects](/web.md/), little things I've made mostly with help from [ChatGPT](https://chatgpt.com/).
+- [AI-built web projects](/web.md/), little things I've made mostly with help from [ChatGPT](https://chatgpt.com/).
 - [Selfhealing Code](https://github.com/dtedesco1/selfhealing-code), an experimental program using [GPT-4](https://openai.com/research/gpt-4) to write, test, and debug its own code.
 - [EIP-4974](https://eips.ethereum.org/EIPS/eip-4974), a standard EVM interface for ratings.
 - [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
