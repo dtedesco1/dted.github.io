@@ -8,16 +8,15 @@ permalink: /now/
 Based in Beijing, China. Traveling a lot to Tokyo, Japan this year.
 
 ## What is my day job
-I work for [Google](https://about.google/), advising APAC game companies on international growth. I am also serving as Head of DAOs for [OpenESG](https://esgdao.earth/).
+I work for [Google](https://about.google/), now Data Lead for a 40-person team of international growth consultants across APAC. For my first four plus years at the company, I advised APAC game companies on international growth.
 
 ## What else am I spending time on
-- Recently shared my [2022 Annual Letter](https://open.substack.com/pub/danieltedesco/p/daniels-2022-annual-letter?r=hpn&utm_campaign=post&utm_medium=web).
-- Flora and I are getting ready to move into our new apartment in Beijing!
+- Almost finished developing a short course about Generative AI that will launch on [Datacamp](https://www.datacamp.com/) in the coming weeks.
+- Flora and I just moved into our new apartment in Beijing!
 - Obessing over ChatGPT's API and building little [web projects](/web.md) with it.
 - Exploring blockchain and AI ecosystems, I [livestream](https://docs.google.com/document/d/1ta_6tSCGfC31iIfhz4bfC_oBKyNZGEdDsZkD-BRXY_Y/edit#heading=h.c65p4fi688tj) about it weekly 
 - Interviewing folks on [The Craft Podcast](https://www.youtube.com/@thecraftpodcast).
 - Lots of exercise via [Les Mills On Demand](https://www.lesmills.com/ondemand/).
-- The [Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) by Peter Drucker
 
 <!-- Conway's Game of Life Footer Visualization -->
 <canvas id="game"></canvas>
