@@ -21,7 +21,6 @@ Overview of what I'm doing [now](/now.md/).
 
 - Working at [Google](https://about.google/)
 - Obsessing over [generative AI](https://github.com/dtedesco1) and building things with it (more below).
-- Studying [blockchain](/blockchain.md/) ecosystems and [DAOs](/daos.md/)
 - Fostering community in the [video game industry](/games.md/)
 - Hosting [The Craft Podcast](craft.md) and [Community Service Hours](https://phor.net/#hour)
 
@@ -38,7 +37,7 @@ Overview of what I'm doing [now](/now.md/).
 - [Life Plan](https://docs.google.com/spreadsheets/d/1YV1dD9vc6yEOUJNvUqFE_H3H63SICM_22eqCVEgH3mc/)
 - [Annual letters since 2015 and why I write them](https://mirror.xyz/0x072408eA37972B83720693D158a85D98A8316340/Y2l7o7Cx41l6jEwVZT5zgRZDqMAXB6LfDA7FL7-QV8I)
 
-# Software projects
+# Other recent activities
 
 I actively contribute to open source software. [Anyone can learn it](/oss.md/). Here are a few examples:
 
@@ -48,6 +47,7 @@ I actively contribute to open source software. [Anyone can learn it](/oss.md/). 
 - [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
 - [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask. (Need to relocate from Heroku.)
 - [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
+- Studying [blockchain](/blockchain.md/) ecosystems and [DAOs](/daos.md/)
 
 # Connect
 
