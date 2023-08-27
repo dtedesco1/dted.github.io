@@ -8,12 +8,12 @@ permalink: /now/
 Based in Beijing, China. Traveling a lot to Tokyo, Japan this year.
 
 ## What is my day job
-I work for [Google](https://about.google/), now Data Lead for a 40-person team of international growth consultants across APAC. For my first four plus years at the company, I advised APAC game companies on international growth.
+I work for [Google](https://about.google/), now Data Lead for a 40-person team of international growth consultants across APAC. For my first five years at the company, I advised APAC game companies on international growth.
 
 ## What else am I spending time on
-- Almost finished developing a short course about Generative AI that will launch on [Datacamp](https://www.datacamp.com/) in the coming weeks.
-- Flora and I just moved into our new apartment in Beijing!
-- Obessing over ChatGPT's API and building little [web projects](/web.md) with it.
+- Launched a short course about Generative AI on [Datacamp](https://www.datacamp.com/).
+- Flora and I recently moved into our new apartment in Beijing.
+- Obessing over Open AI’s API and building little [web projects](/web.md) with it.
 - Exploring blockchain and AI ecosystems, I [livestream](https://docs.google.com/document/d/1ta_6tSCGfC31iIfhz4bfC_oBKyNZGEdDsZkD-BRXY_Y/edit#heading=h.c65p4fi688tj) about it weekly 
 - Interviewing folks on [The Craft Podcast](https://www.youtube.com/@thecraftpodcast).
 - Lots of exercise via [Les Mills On Demand](https://www.lesmills.com/ondemand/).

@@ -39,7 +39,7 @@ Also, some amazing podcasts I found more recently on metaverse and NFT gaming:
 - Welcome to the Metaverse
 
 # Some favorite games
-- Zelda Breath of the Wild
+- Zelda Breath of the Wild and Tears of The Kingdom
 - Civilization VI
 - Homescapes
 - Hearthstone
@@ -54,3 +54,5 @@ Also, some amazing podcasts I found more recently on metaverse and NFT gaming:
 - Xcom 2
 - Oxygen Not Included
 - Archero
+- Madden
+- NBA Street 
