@@ -5,7 +5,7 @@ permalink: /now/
 ---
 
 ## Where am I
-Based in Beijing, China. Traveling a lot to Tokyo, Japan this year.
+Based in Beijing, China. Still reeling from spending a month in Tokyo, where Flora and I saw the [Foo Fighters](https://www.youtube.com/watch?v=l72CuN__pNo&t=3842s), [Blur](https://www.youtube.com/watch?v=JjQo7dbnMpk), [Cimafunk](https://youtu.be/AablKuz9UT4), [Liam Gallagher](https://youtu.be/Mwc7zPuqBTA).
 
 ## What is my day job
 I work for [Google](https://about.google/), now Data Lead for a 40-person team of international growth consultants across APAC. For my first five years at the company, I advised APAC game companies on international growth.
