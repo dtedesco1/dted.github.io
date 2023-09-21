@@ -18,6 +18,12 @@ I work for [Google](https://about.google/), now Data Lead for a 40-person team o
 - Interviewing folks on [The Craft Podcast](https://www.youtube.com/@thecraftpodcast).
 - Lots of exercise via [Les Mills On Demand](https://www.lesmills.com/ondemand/).
 
+## Games I'm playing
+- Cyberpunk 2077 2.0
+- Zelda Tears of the Kingdom
+- King of Avalon
+- Talkie
+
 <!-- Conway's Game of Life Footer Visualization -->
 <canvas id="game"></canvas>
 <script>
