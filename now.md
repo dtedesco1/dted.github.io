@@ -5,12 +5,15 @@ permalink: /now/
 ---
 
 ## Where am I
+
 Based in Beijing, China. Still reeling from spending a month in Tokyo, where Flora and I saw the [Foo Fighters](https://www.youtube.com/watch?v=l72CuN__pNo&t=3842s), [Blur](https://www.youtube.com/watch?v=JjQo7dbnMpk), [Cimafunk](https://youtu.be/AablKuz9UT4), [Liam Gallagher](https://youtu.be/Mwc7zPuqBTA).
 
 ## What is my day job
+
 I work for [Google](https://about.google/), now Data Lead for a 40-person team of international growth consultants across APAC. For my first five years at the company, I advised APAC game companies on international growth.
 
 ## What else am I spending time on
+
 - Launched a short course about Generative AI on [Datacamp](https://www.datacamp.com/).
 - Flora and I recently moved into our new apartment in Beijing.
 - Obessing over Open AI’s API and building little [web projects](/web.md) with it.
@@ -19,6 +22,7 @@ I work for [Google](https://about.google/), now Data Lead for a 40-person team o
 - Lots of exercise via [Les Mills On Demand](https://www.lesmills.com/ondemand/).
 
 ## Games I'm playing
+
 - Cyberpunk 2077 2.0
 - Zelda Tears of the Kingdom
 - King of Avalon

@@ -6,39 +6,49 @@ permalink: /games/
 
 I read and listen to a lot of video game industry news. Here are some of my favorite sources (and a list of my favorite games below!)
 
-# Industry News
 ## Tier 1
+
 ### Podcasts
+
+My Favorites:
+
 - [Deconstructor of Fun](https://anchor.fm/deconstructoroffun)
 - [Naavik Metacast](https://naavik.co/themetacast)
 - [GameMakers](https://anchor.fm/gamemakers)
+- [The Art of LiveOps](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS80ODk0MDMucnNz) -- Microsoft Azure team interviews developers on live operations
+- [Mobile Dev Memo Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NTM2OWE4L3BvZGNhc3QvcnNz) -- Podcast from a leading mobile app marketing blog
 
-### Blogs/Newsletters
-- Deconstructor of Fun
-- Mobile Dev Memo
-- Master the Meta
+If you want more podcasts:
 
-### Paid services, but still good to get on their newsletters: 
-- GameRefinery
-- [Data.ai](https://www.data.ai/)
-- [NewZoo](https://newzoo.com/))
-- [SensorTower](https://sensortower.com/)
-
-## Tier 2
-
-### Tier 2 podcasts to follow: 
 - Mobile Gamedev Playbook
 - 游戏面包房
 - Level Up
 - Elite Game Developers
 
-# Metaverse
+### Blogs/Newsletters
 
-Also, some amazing podcasts I found more recently on metaverse and NFT gaming:
+- [Gamesindustry.biz](https://gamesindustry.biz)
+- [Game Developer](https://www.gamedeveloper.com/)
+- [VentureBeat](https://venturebeat.com/)
+- [Polygon](https://www.polygon.com/)
+- [Naavik Deep Dives](https://naavik.co/deep-dives-2/)
+- [Deconstructor of Fun Blog](https://www.deconstructoroffun.com/blog)
+- Master the Meta
+
+### Paid services, but still good to get on their newsletters: 
+
+- GameRefinery
+- [Data.ai](https://www.data.ai/)
+- [NewZoo](https://newzoo.com/))
+- [SensorTower](https://sensortower.com/)
+
+## Metaverse
+
 - Into the Metaverse
 - Welcome to the Metaverse
 
-# Some favorite games
+## Some favorite games
+
 - Zelda Breath of the Wild and Tears of The Kingdom
 - Civilization VI
 - Homescapes
@@ -55,4 +65,5 @@ Also, some amazing podcasts I found more recently on metaverse and NFT gaming:
 - Oxygen Not Included
 - Archero
 - Madden
-- NBA Street 
+- NBA Street
+- Mario Kart
