@@ -4,42 +4,33 @@ title: "Daniel Tedesco"
 permalink: /
 ---
 
-# Who?
+## Who?
 
 I'm an American in China working to bring humanity closer together.
 
-## Major public interests
+What I'm up to [now](/now.md/).
 
-Use technology to build positive networks of people.
-
-- Software that people love
-- Thriving communities
-- [US & China getting along](https://www.edweek.org/teaching-learning/opinion-student-explains-key-to-strategic-dialogue/2012/05)
-
-## Specific public interests in 2023
-Overview of what I'm doing [now](/now.md/).
+### Main public things in 2024
 
 - Working at [Google](https://about.google/)
-- Obsessing over [generative AI](https://github.com/dtedesco1) and building things with it (more below).
-- Fostering community in the [video game industry](/games.md/)
-- Hosting [The Craft Podcast](craft.md) and [Community Service Hours](https://phor.net/#hour)
+- Building an AI audio app with some friends. It will be the first app I've built from scratch.
+- Hosting [The Craft Podcast](https://www.youtube.com/@thecraftpodcast)
 
-## Major personal interests
+### Major personal things in 2024
 
-- [Staying healthy](/health.md/) and loving my family & close friends
-- Studying the latest trends in human psychology and digital technology
-- Reading [history and science fiction](/books.md/)
-- Finding rapture in [music, video games, and other art](/art.md/)
+- Spiritual growth, mainly through prayer and reading the Bible
+- [Staying healthy](/health.md/) and traveling with Flora
+- Reading [science, history, and science fiction books](/books.md/)
+- Finding rapture in [video games,](/games.md/) [music, and other art](/art.md/)
 
-## Tracking my goals
+### Tracking my goals
 
-- [Vision, Mission, Values](https://dynalist.io/d/pz2OV8bfTjaryXAKLmREY8c1)
-- [Life Plan](https://docs.google.com/spreadsheets/d/1YV1dD9vc6yEOUJNvUqFE_H3H63SICM_22eqCVEgH3mc/)
+- [February 2024 summary of my life vision & missions](/life-plan-summary-2024-02.md/)
 - [Annual letters since 2015 and why I write them](https://mirror.xyz/0x072408eA37972B83720693D158a85D98A8316340/Y2l7o7Cx41l6jEwVZT5zgRZDqMAXB6LfDA7FL7-QV8I)
 
-# Other recent activities
+## Other recent activities
 
-I actively contribute to open source software. [Anyone can learn it](/oss.md/). Here are a few examples:
+I enjoy contributing to open source software. [Anyone can learn it](/oss.md/). Here are a few examples:
 
 - [AI-built web projects](/web.md/), little things I've made mostly with help from [ChatGPT](https://chatgpt.com/).
 - [Selfhealing Code](https://github.com/dtedesco1/selfhealing-code), an experimental program using [GPT-4](https://openai.com/research/gpt-4) to write, test, and debug its own code.
@@ -50,17 +41,17 @@ I actively contribute to open source software. [Anyone can learn it](/oss.md/). 
 - [Fun web projects](/web-projects/organic-background-1.html), a bunch of little web projects I've built for fun.
 <!-- - [Web3 Analytics Demo](https://github.com/allenday/web3-analytics-demo), a demo project connecting Google Analytics with Ethereum addresses -->
 
-# Connect
+## Connect
 
 ![Daniel Tedesco](headshot.png)
 
-## Social
+### Social
 
 - [Twitter](https://twitter.com/dtedesco1)
 - [LinkedIn](https://www.linkedin.com/in/danieltedesco/)
 - [GitHub](https://github.com/dtedesco1)
 
-## Annual Letters
+### Subscribe to the Annual Letters
 
 - [Substack](https://danieltedesco.substack.com/)
 
