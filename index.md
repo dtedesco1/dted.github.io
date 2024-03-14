@@ -13,7 +13,7 @@ What I'm up to [now](/now.md/).
 ### Main public things in 2024
 
 - Working at [Google](https://about.google/)
-- Building an AI audio app with some friends. It will be the first app I've built from scratch.
+- Building an AI audio app with some friends on nights and weekends.
 - Hosting [The Craft Podcast](https://www.youtube.com/@thecraftpodcast)
 
 ### Major personal things in 2024
