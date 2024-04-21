@@ -27,9 +27,16 @@ I work for [Google](https://about.google/), now Data Lead for a 40-person team o
 - Zelda Tears of the Kingdom
 - Polytopia
 
+## Last Updated
+
+<span id="lastUpdated"></span>
+
 <!-- Conway's Game of Life Footer Visualization -->
 <canvas id="game"></canvas>
 <script>
+  // Create the lastUpdated variable
+  document.getElementById('lastUpdated').textContent = document.lastModified;
+  
   // Get a reference to the canvas element
   const canvas = document.getElementById('game');
   const ctx = canvas.getContext('2d');
