@@ -36,26 +36,23 @@ I work for [Google](https://about.google/), now Data Lead for a 40-person team o
   var lastModified = new Date(document.lastModified);
   var options = { month: 'long', year: 'numeric' };
   document.getElementById('lastUpdated').textContent = lastModified.toLocaleDateString('en-US', options);
-  
   // Get a reference to the canvas element
   const canvas = document.getElementById('game');
   const ctx = canvas.getContext('2d');
   canvas.width = window.innerWidth;
   canvas.height = 100;
-  canvas.style.position = "fixed";
+  // canvas.style.position = "fixed"; // This will make it stick to the footer of the window
+  canvas.style.position = "absolute"; // This will make it stick to the footer of the page
   canvas.style.bottom = "0";
   canvas.style.left = "0";
-
   // Update the width of the canvas whenever the window is resized
   window.onresize = function() {
     canvas.width = window.innerWidth;
   };
-
   // Define the dimensions of the grid
   const width = canvas.width;
   const height = canvas.height;
   const cellSize = 5;
-
   // Initialize the grid with random values
   let grid = new Array(height);
   for (let i = 0; i < height; i++) {
@@ -64,7 +61,6 @@ I work for [Google](https://about.google/), now Data Lead for a 40-person team o
       grid[i][j] = Math.round(Math.random());
     }
   }
-
   // This function counts the number of alive neighbors of a given cell
   function countAliveNeighbors(grid, x, y) {
     let count = 0;
@@ -78,14 +74,12 @@ I work for [Google](https://about.google/), now Data Lead for a 40-person team o
     }
     return count;
   }
-
   // This function updates the grid according to the rules of the game
   function update(grid) {
     let newGrid = new Array(height);
     for (let i = 0; i < height; i++) {
       newGrid[i] = new Array(width);
     }
-
     for (let i = 0; i < height; i++) {
       for (let j = 0; j < width; j++) {
         let aliveNeighbors = countAliveNeighbors(grid, i, j);
@@ -102,51 +96,40 @@ I work for [Google](https://about.google/), now Data Lead for a 40-person team o
         }
       }
     }
-
     return newGrid;
   }
-
   // This function draws the grid and the cells on the canvas
   function draw(grid) {
     // Clear the canvas
     ctx.clearRect(0, 0, canvas.width, canvas.height);
-
     // Draw the cells
     for (let i = 0; i < height; i++) {
         for (let j = 0; j < width; j++) {
             if (grid[i][j] === 1) {
                 ctx.fillStyle
-
                 // Set the fill color to black
                 ctx.fillStyle = '#E5E4E2';
-
                 // Calculate the coordinates of the cell
                 let x = j * cellSize;
                 let y = i * cellSize;
-
                 // Draw a filled rectangle at the calculated coordinates
                 ctx.fillRect(x, y, cellSize, cellSize);
-
             }
         }
     }
   }
-
   // This function animates the game by calling the draw function at a regular interval
   function animate() {
       // Update the grid
       grid = update(grid);
-
       // Draw the grid
       draw(grid);
-
       // Wait 100 milliseconds before printing the grid
       setTimeout(function() {
           // Request the next animation frame
           requestAnimationFrame(animate);
       }, 500);
   }
-
   // Start the animation
   requestAnimationFrame(animate);
 </script>

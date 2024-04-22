@@ -5,6 +5,7 @@ permalink: /books/
 ---
 
 # Overall favorites
+
 - [Behave](https://en.wikipedia.org/wiki/Behave_(book)) by Robert Sapolsky
 - [Man's Search for Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning) by Viktor Frankl
 - [The Years of Lyndon Johnson series](https://en.wikipedia.org/wiki/The_Years_of_Lyndon_Johnson) by Robert Caro
@@ -14,21 +15,24 @@ permalink: /books/
 - The big religious ones:  Bible, Koran, Baghvad Gita, Tao Te Ching, etc.
 
 # Business & Leadership
+
 - [Good to Great](https://en.wikipedia.org/wiki/Good_to_Great) by Jim Collins
 - [The Fifth Discipline](https://en.wikipedia.org/wiki/The_Fifth_Discipline) by Peter Senge
 - [The Effective Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive) by Peter Drucker
 
-
 ## Business Stories
+
 - [Shoe Dog](https://en.wikipedia.org/wiki/Shoe_Dog), by Phil Knight. The story of Nike told by its founder.
 
 # Science Fiction
+
 - Dune
 - [Three Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)), by Liu Cixin. Fantastic science fiction series.
 - Exhilations
 - Ficciones, Jorge Luis Borges
 
 # Favorite Podcasts
+
 - Lex Fridman Podcast
 - Econtalk
 - Tim Ferriss Podcast
@@ -37,13 +41,25 @@ permalink: /books/
 - Nature Podcast
 - The Moth
 
+# 2024
+
+- [The End is Always Near](https://www.goodreads.com/book/show/49947205-the-end-is-always-near), by Dan Carlin
+- [The Divine Conspiracy](https://www.goodreads.com/book/show/49947205-the-end-is-always-near), by Dallas Willard
+- [The Coming Wave](https://www.goodreads.com/en/book/show/90590134), by Mustafa Suleyman
+
 # 2023
-- [Atomic Habits](https://jamesclear.com/atomic-habits), by James Clear. 
+
+- [Atomic Habits](https://jamesclear.com/atomic-habits), by James Clear.
+- [Carnage and Culture](https://www.goodreads.com/book/show/177766.Carnage_and_Culture), by Victor Davis Hansen
+- The New Testament, translation by David Bentley Hart
+- The Untold Story of the Bible, by Frank Viola
+More to add...
 
 # 2022
+
 - [Bittersweet](https://susancain.net/book/bittersweet/) by Susan Cain
 - [Miracle & Wonder](https://www.goodreads.com/en/book/show/59545874-miracle-and-wonder), live audiobook by Paul Simon and Malcolm Gladwell.
-- [The Voltage Effect](https://www.goodreads.com/en/book/show/57926125), by John A. List. 
+- [The Voltage Effect](https://www.goodreads.com/en/book/show/57926125), by John A. List.
 - [Corruptible](https://www.goodreads.com/book/show/56898187-corruptible), by Brian Klass.
 - God Emperor of Dune, by Frank Herbert.
 - Brave New World, by Aldous Huxley.
@@ -51,7 +67,7 @@ permalink: /books/
 - Unleash The Giant Within, by Tony Robbins.
 - Snow Crash, by Neal Stephenson.
 - Beyond Entrepreneurship 2.0, by Jim Collins.
-- Seveneves, by Neal Stephenson. 4/5. 
+- Seveneves, by Neal Stephenson. 4/5.
 - [When The Body Says No]([url](https://drgabormate.com/book/when-the-body-says-no/)). 4/5. A fascinating look at the body's stress response system, and how it can be used to understand and treat a wide variety of diseases. The book is a bit dated, but the science is still relevant. It helped me think about how trauma in my own family is passed down through generations--not being the fault of any individual along the way--and how I can break that cycle.
 - [Honeybee Democracy, by Thomas Seeley](https://press.princeton.edu/books/hardcover/9780691147215/honeybee-democracy). 4/5. Sweeping review of what humans know about how bees choose new colony locations. The process is decentralized, and I think human systems can learn from them. Interesting heuristics that can be applied more by humans are things like many independent reviews before voting, cooldown effects for any individual lobbying, quorums instead of majorities, and, of course, waggle dances.
 - [King of Kings, audio narrative by Dan Carlin](https://www.dancarlin.com/product/hardcore-history-56-kings-kings/). 4/5. Gripping account of the Persian Empire's interactions with Greece from Cyrus the Great to Alexander the Great. A motif that stuck out is just how much of the facts from that time are unknown or seeped in so much propaganda that no one knows what's true, even down to whether certain individuals exists or who won battles of thousands of warriors.
