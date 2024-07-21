@@ -32,6 +32,7 @@ What I'm up to [now](/now.md/).
 
 I enjoy contributing to open source software. [Anyone can learn it](/oss.md/). Here are a few examples:
 
+- [LLM Nexus](https://github.com/dtedesco1/llm_nexus), an open-source Python package that provides a single interface for interacting with multiple Language Model providers.
 - [AI-built web projects](/web.md/), little things I've made mostly with help from [ChatGPT](https://chatgpt.com/).
 - [Selfhealing Code](https://github.com/dtedesco1/selfhealing-code), an experimental program using [GPT-4](https://openai.com/research/gpt-4) to write, test, and debug its own code.
 - [EIP-4974](https://eips.ethereum.org/EIPS/eip-4974), a standard EVM interface for ratings.
