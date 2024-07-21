@@ -16,18 +16,17 @@ I work for [Google](https://about.google/), now Data Lead for a 40-person team o
 
 ## What else am I spending time on
 
-- Launched a short course about Generative AI on [Datacamp](https://www.datacamp.com/).
-- Flora and I recently moved into our new apartment in Beijing.
-- Building an AI audio app with some friends on nights and weekends. It will be the first app I've built from scratch.
-- Interviewing folks on [The Craft Podcast](https://www.youtube.com/@thecraftpodcast).
-- Lots of exercise via [Les Mills On Demand](https://www.lesmills.com/ondemand/).
+- Lots of exploratory coding with AIs like [Claude](claude.ai) and [Copilot](https://copilot.github.com/)
+- Flora and I are getting ready for another visit to Japan for the Fuji Rock Festival
+- Trying to get my Japanese to "intermediate" level and taking a live Japanese course with [Nihongodekita](https://nihongodekita.com/)
+- Building an AI audio app with some friends on nights and weekends
 
 ## Games I'm playing
 
 - Hearthstone
-- Pokemon Arceus
+- Cities Skylines
 - Zelda Tears of the Kingdom
-- Polytopia
+- GTA V, again
 
 <!-- Conway's Game of Life Footer Visualization -->
 <canvas id="game"></canvas>
