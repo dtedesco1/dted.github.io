@@ -14,13 +14,13 @@ permalink: /threerules/
         document.body.appendChild(asciiArtElement);
     }
 
-    var width = 40;
-    var height = 10;
+    var width = 100;
+    var height = 20;
 
     var positions = [
-        { x: Math.floor(Math.random() * width), y: Math.floor(Math.random() * height), dx: 0.75, dy: 0.75 },
-        { x: Math.floor(Math.random() * width), y: Math.floor(Math.random() * height), dx: -0.75, dy: 0.75 },
-        { x: Math.floor(Math.random() * width), y: Math.floor(Math.random() * height), dx: 0.75, dy: -0.75 },
+        { x: Math.random() * width, y: Math.random() * height, dx: 0.5, dy: 0.5 },
+        { x: Math.random() * width, y: Math.random() * height, dx: -0.5, dy: 0.5 },
+        { x: Math.random() * width, y: Math.random() * height, dx: 0.5, dy: -0.5 },
     ];
 
     function updatePositions() {
@@ -29,9 +29,9 @@ permalink: /threerules/
             pos.y += pos.dy;
 
             if (pos.x < 0) { pos.x = 0; pos.dx *= -1; }
-            if (pos.x >= width) { pos.x = width - 1; pos.dx *= -1; }
+            if (pos.x >= width - 1) { pos.x = width - 1; pos.dx *= -1; }
             if (pos.y < 0) { pos.y = 0; pos.dy *= -1; }
-            if (pos.y >= height) { pos.y = height - 1; pos.dy *= -1; }
+            if (pos.y >= height - 1) { pos.y = height - 1; pos.dy *= -1; }
         });
     }
 
@@ -42,7 +42,15 @@ permalink: /threerules/
         }
 
         positions.forEach(function(pos, index) {
-            frame[Math.round(pos.y)][Math.round(pos.x)] = 'O'; // Use 'O' for each ball
+            var x = Math.round(pos.x);
+            var y = Math.round(pos.y);
+            frame[y][x] = (index + 1).toString(); // Use '1', '2', '3' for each ball
+
+            // Add "trail" effect for smoother appearance
+            if (pos.dx > 0 && x > 0) frame[y][x-1] = '.';
+            if (pos.dx < 0 && x < width-1) frame[y][x+1] = '.';
+            if (pos.dy > 0 && y > 0) frame[y-1][x] = '.';
+            if (pos.dy < 0 && y < height-1) frame[y+1][x] = '.';
         });
 
         var frameText = frame.map(function(row) { return row.join(''); }).join('\n');
@@ -53,7 +61,7 @@ permalink: /threerules/
     setInterval(function() {
         updatePositions();
         drawFrame();
-    }, 125); // Increased interval slightly to slow down the animation
+    }, 50); // Increased frame rate for smoother animation
 })();
 </script>
 
