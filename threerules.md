@@ -10,6 +10,7 @@ permalink: /threerules/
     if (!asciiArtElement) {
         asciiArtElement = document.createElement('pre');
         asciiArtElement.id = 'ascii-art';
+        asciiArtElement.style.textAlign = 'center'; // Center the ASCII art
         document.body.appendChild(asciiArtElement);
     }
 
@@ -17,9 +18,9 @@ permalink: /threerules/
     var height = 10;
 
     var positions = [
-        { x: Math.floor(Math.random() * width), y: Math.floor(Math.random() * height), dx: 1, dy: 1 },
-        { x: Math.floor(Math.random() * width), y: Math.floor(Math.random() * height), dx: -1, dy: 1 },
-        { x: Math.floor(Math.random() * width), y: Math.floor(Math.random() * height), dx: 1, dy: -1 },
+        { x: Math.floor(Math.random() * width), y: Math.floor(Math.random() * height), dx: 0.75, dy: 0.75 },
+        { x: Math.floor(Math.random() * width), y: Math.floor(Math.random() * height), dx: -0.75, dy: 0.75 },
+        { x: Math.floor(Math.random() * width), y: Math.floor(Math.random() * height), dx: 0.75, dy: -0.75 },
     ];
 
     function updatePositions() {
@@ -41,7 +42,7 @@ permalink: /threerules/
         }
 
         positions.forEach(function(pos, index) {
-            frame[pos.y][pos.x] = 'O'; // Use 'O' for each ball
+            frame[Math.round(pos.y)][Math.round(pos.x)] = 'O'; // Use 'O' for each ball
         });
 
         var frameText = frame.map(function(row) { return row.join(''); }).join('\n');
@@ -52,7 +53,7 @@ permalink: /threerules/
     setInterval(function() {
         updatePositions();
         drawFrame();
-    }, 100);
+    }, 125); // Increased interval slightly to slow down the animation
 })();
 </script>
 
