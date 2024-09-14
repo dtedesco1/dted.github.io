@@ -45,6 +45,7 @@ permalink: /threerules/
             var x = Math.round(pos.x);
             var y = Math.round(pos.y);
             frame[y][x] = (index + 1).toString(); // Use '1', '2', '3' for each ball
+        });
 
         var frameText = frame.map(function(row) { return row.join(''); }).join('\n');
 
@@ -58,8 +59,7 @@ permalink: /threerules/
 })();
 </script>
 
-## Contact
-
-dtedesco1 at gmail dot com
-
-Three Rules LLC 2024
+Three Rules LLC
+\#1198
+2230 Route 70 W STE 2
+Cherry Hill, NJ 08002
