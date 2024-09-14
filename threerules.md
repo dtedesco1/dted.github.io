@@ -58,10 +58,8 @@ permalink: /threerules/
 })();
 </script>
 
-<div id="contact-info">
 ## Contact
 
 dtedesco1 at gmail dot com
 
 Three Rules LLC 2024
-</div>
