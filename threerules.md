@@ -4,6 +4,18 @@ title: "Three Rules LLC"
 permalink: /threerules/
 ---
 
+## Mailing Address
+
+\#1198
+
+2230 Route 70 W STE 2
+
+Cherry Hill, NJ 08002
+
+## Contact
+
+dtedesco1 at gmail dot com
+
 <script>
 (function(){
     var asciiArtElement = document.getElementById('ascii-art');
@@ -58,8 +70,3 @@ permalink: /threerules/
     }, 100);
 })();
 </script>
-
-Three Rules LLC
-\#1198
-2230 Route 70 W STE 2
-Cherry Hill, NJ 08002
