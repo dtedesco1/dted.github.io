@@ -39,8 +39,7 @@ I work for [Google](https://about.google/), now Data Lead for a 40-person team o
   const ctx = canvas.getContext('2d');
   canvas.width = window.innerWidth;
   canvas.height = 100;
-  // canvas.style.position = "fixed"; // This will make it stick to the footer of the window
-  canvas.style.position = "absolute"; // This will make it stick to the footer of the page
+  canvas.style.position = "fixed"; // This will make it stick to the footer of the window
   canvas.style.bottom = "0";
   canvas.style.left = "0";
   // Update the width of the canvas whenever the window is resized

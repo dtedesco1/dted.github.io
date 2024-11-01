@@ -14,12 +14,12 @@ What I'm up to [now](/now.md/).
 
 - Working at [Google](https://about.google/)
 - Building an AI audio app with some friends on nights and weekends.
-- Hosting [The Craft Podcast](https://www.youtube.com/@thecraftpodcast)
+- Turning my life planning tool into a web app. (Alpha version available at [lp9](https://lp9-2024-09-17.vercel.app/)).
 
 ### Major personal things in 2024
 
 - Spiritual growth, mainly through prayer and reading the Bible
-- [Staying healthy](/health.md/) and traveling with Flora
+- Learning Japanese with [Duolingo](https://www.duolingo.com/) and [Nihongodekita](https://www.nihongodekita.com/)
 - Reading [science, history, and science fiction books](/books.md/)
 - Finding rapture in [video games,](/games.md/) [music, and other art](/art.md/)
 
@@ -38,9 +38,6 @@ I enjoy contributing to open source software. [Anyone can learn it](/oss.md/). H
 - [EIP-4974](https://eips.ethereum.org/EIPS/eip-4974), a standard EVM interface for ratings.
 - [Solidity](https://github.com/ethereum/solidity), the smart contract programming language.
 - [Tasky](https://dt-tasky.herokuapp.com/), a task management web app built with Python & Flask. (Need to relocate from Heroku.)
-- [Solidity Templates](https://github.com/fulldecent/solidity-template), templates for writing smart contracts in Solidity.
-- [Fun web projects](/web-projects/organic-background-1.html), a bunch of little web projects I've built for fun.
-<!-- - [Web3 Analytics Demo](https://github.com/allenday/web3-analytics-demo), a demo project connecting Google Analytics with Ethereum addresses -->
 
 ## Connect
 
@@ -52,8 +49,6 @@ I enjoy contributing to open source software. [Anyone can learn it](/oss.md/). H
 - [LinkedIn](https://www.linkedin.com/in/danieltedesco/)
 - [GitHub](https://github.com/dtedesco1)
 
-### Subscribe to the Annual Letters
+### Subscribe to my Annual Letters
 
 - [Substack](https://danieltedesco.substack.com/)
-
-<!-- Broken iframe:  <iframe src="https://dtedesco1.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
